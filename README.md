@@ -30,7 +30,6 @@ I share information related to the Recommender System what I interested in. cons
 * KGAT: [KGAT: Knowledge Graph Attention Network for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330989) (KDD'19)
 * KGCN: [Knowledge Graph Convolutional Networks for Recommender Systems](https://arxiv.org/pdf/1904.12575.pdf) (WWW'19)
 * GraphRec: [Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf) (WWW'19)
-
 * HIN: [Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3269206.3271725) (CIKM'18)
 * VAE: [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3178876.3186150)
 * triple2vec: [Representing and Recommending Shopping Baskets with Complementarity, Compatibility and Loyalty](https://dl.acm.org/doi/pdf/10.1145/3269206.3271786) (CIKM'18)
