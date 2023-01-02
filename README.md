@@ -1,5 +1,5 @@
 # Awesome Recsys
-I share information related to the Recommender System what I interested in. consist of `ICLR`, `NeurIPS`, `ICML`, `AAAI`, `IJCAI`, `KDD`, `etc`
+I share information related to the Recommender System what I interested in. consist of `SIGIR`, `Recsys`, `ICLR`, `NeurIPS`, `ICML`, `AAAI`, `IJCAI`, `KDD`, `etc`
 
 - modified : 2022-12-28
 
