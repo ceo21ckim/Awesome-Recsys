@@ -20,6 +20,7 @@ I share information related to the Recommender System what I interested in. cons
 * UltraGCN: [Ultra Simplification of Graph Convolutional Networks for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3459637.3482291) (CIKM'21)
 * MixGCF: [MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3447548.3467408) (KDD'21)
 * S3-Rec: [S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization](https://dl.acm.org/doi/pdf/10.1145/3340531.3411954) (CIKM'20)
+* SSG: [Set-Sequence-Graph: A Multi-View Approach Towards Exploiting Reviews for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3340531.3411939) (CIKM'20)
 * SML: [Symmetric Metric Learning with Adaptive Margin for Recommendation](https://www.researchgate.net/profile/Shuai-Zhang-12/publication/342542890_Symmetric_Metric_Learning_with_Adaptive_Margin_for_Recommendation/links/6002ea7645851553a049d2e8/Symmetric-Metric-Learning-with-Adaptive-Margin-for-Recommendation.pdf)
 * LCF: [Graph Convolutional Network for Recommendation with Low-pass Collaborative Filters](http://proceedings.mlr.press/v119/yu20e/yu20e.pdf) (PMLR'20)
 * SEE-PT: [SEE-PT: Sequential recommendation via personalized transformer](https://dl.acm.org/doi/abs/10.1145/3383313.3412258) (RecSys'20)
