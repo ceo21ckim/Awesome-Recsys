@@ -26,7 +26,7 @@ I share information related to the Recommender System what I interested in. cons
 * SEE-PT: [SEE-PT: Sequential recommendation via personalized transformer](https://dl.acm.org/doi/abs/10.1145/3383313.3412258) (RecSys'20)
 * LightGCN: [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf) (SIGIR'20)
 * MBGCN: [Multi-behavior Recommendation with Graph Convolutional Networks](https://dl.acm.org/doi/pdf/10.1145/3397271.3401072) (SIGIR'20)
-* NGCF: [Neural Graph Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3331184.3331267)
+* NGCF: [Neural Graph Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3331184.3331267) (SIGIR'19)
 * BERT4Rec: [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/pdf/1904.06690.pdf) (CIKM'19)
 * KGAT: [KGAT: Knowledge Graph Attention Network for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3292500.3330989) (KDD'19)
 * KGCN: [Knowledge Graph Convolutional Networks for Recommender Systems](https://arxiv.org/pdf/1904.12575.pdf) (WWW'19)
