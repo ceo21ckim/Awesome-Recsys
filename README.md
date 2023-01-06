@@ -9,6 +9,7 @@ I share information related to the Recommender System what I interested in. cons
 ### Models 
 
 ### 2022
+* ItemSage: [ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest](https://arxiv.org/pdf/2205.11728.pdf) (KDD'22)
 * DuoRec: [Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation](https://arxiv.org/pdf/2110.05730.pdf) (WSDM'22)
 * CL4SRec: [Contrastive Learning for Sequential Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835621) (ICDE'22)
 
