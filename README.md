@@ -46,6 +46,7 @@ I share information related to the Recommender System what I interested in. cons
 
 
 ### 2018
+* PinSage: [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3219819.32198900) (KDD'18)
 * HIN: [Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3269206.3271725) (CIKM'18)
 * VAE: [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3178876.3186150) (WWW'18)
 * triple2vec: [Representing and Recommending Shopping Baskets with Complementarity, Compatibility and Loyalty](https://dl.acm.org/doi/pdf/10.1145/3269206.3271786) (CIKM'18)
