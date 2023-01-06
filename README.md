@@ -34,7 +34,7 @@ I share information related to the Recommender System what I interested in. cons
 * GraphRec: [Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf) (WWW'19)
 * NARRE: [Neural Attentional Rating Regression with Review-level Explanations](https://dl.acm.org/doi/pdf/10.1145/3178876.3186070) (WWW'19)
 * HIN: [Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3269206.3271725) (CIKM'18)
-* VAE: [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3178876.3186150)
+* VAE: [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3178876.3186150) (WWW'18)
 * triple2vec: [Representing and Recommending Shopping Baskets with Complementarity, Compatibility and Loyalty](https://dl.acm.org/doi/pdf/10.1145/3269206.3271786) (CIKM'18)
 * GC-MC: [Graph Convolutional Matrix Completion](https://arxiv.org/pdf/1706.02263.pdf) (KDD'18)
 * SASRec: [Self-Attentive Sequential Recommendation](https://arxiv.org/pdf/1808.09781.pdf) (ICDM'18)
