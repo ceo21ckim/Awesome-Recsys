@@ -8,8 +8,11 @@ I share information related to the Recommender System what I interested in. cons
 
 ### Models 
 
+### 2022
 * DuoRec: [Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation](https://arxiv.org/pdf/2110.05730.pdf) (WSDM'22)
 * CL4SRec: [Contrastive Learning for Sequential Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835621) (ICDE'22)
+
+### 2021
 * Transformer4Rec: [Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3460231.3474255) (Recsys'21)
 * SGL: [Self-supervised Graph Learning for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3404835.3462862) (SIGIR'21)
 * MHCN: [Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449844) (WWW'21)
@@ -19,7 +22,10 @@ I share information related to the Recommender System what I interested in. cons
 * BUIR: [Bootstrapping User and Item Representations for One-Class Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3404835.3462935) (SIGIR'21) 
 * UltraGCN: [Ultra Simplification of Graph Convolutional Networks for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3459637.3482291) (CIKM'21)
 * MixGCF: [MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3447548.3467408) (KDD'21)
+
+### 2020
 * S3-Rec: [S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization](https://dl.acm.org/doi/pdf/10.1145/3340531.3411954) (CIKM'20)
+* EHCF: [Efficient heterogeneous collaborative filtering without neg-ative sampling for recommendation](http://www.thuir.cn/group/~YQLiu/publications/AAAI2020Chen.pdf) (AAAI'20)
 * SSG: [Set-Sequence-Graph: A Multi-View Approach Towards Exploiting Reviews for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3340531.3411939) (CIKM'20)
 * SML: [Symmetric Metric Learning with Adaptive Margin for Recommendation](https://www.researchgate.net/profile/Shuai-Zhang-12/publication/342542890_Symmetric_Metric_Learning_with_Adaptive_Margin_for_Recommendation/links/6002ea7645851553a049d2e8/Symmetric-Metric-Learning-with-Adaptive-Margin-for-Recommendation.pdf) (AAAI'20)
 * KHGT: [Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation](https://www.aaai.org/AAAI21Papers/AAAI-3071.XiaL.pdf) (AAAI'20)
@@ -27,6 +33,9 @@ I share information related to the Recommender System what I interested in. cons
 * SEE-PT: [SEE-PT: Sequential recommendation via personalized transformer](https://dl.acm.org/doi/abs/10.1145/3383313.3412258) (RecSys'20)
 * LightGCN: [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf) (SIGIR'20)
 * MBGCN: [Multi-behavior Recommendation with Graph Convolutional Networks](https://dl.acm.org/doi/pdf/10.1145/3397271.3401072) (SIGIR'20)
+
+
+### 2019
 * NMTR: [Neural Multi-Task Recommendation from Multi-Behavior Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731537) (ICDE'19)
 * NGCF: [Neural Graph Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3331184.3331267) (SIGIR'19)
 * BERT4Rec: [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/pdf/1904.06690.pdf) (CIKM'19)
@@ -34,17 +43,26 @@ I share information related to the Recommender System what I interested in. cons
 * KGCN: [Knowledge Graph Convolutional Networks for Recommender Systems](https://arxiv.org/pdf/1904.12575.pdf) (WWW'19)
 * GraphRec: [Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf) (WWW'19)
 * NARRE: [Neural Attentional Rating Regression with Review-level Explanations](https://dl.acm.org/doi/pdf/10.1145/3178876.3186070) (WWW'19)
+
+
+### 2018
 * HIN: [Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3269206.3271725) (CIKM'18)
 * VAE: [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3178876.3186150) (WWW'18)
 * triple2vec: [Representing and Recommending Shopping Baskets with Complementarity, Compatibility and Loyalty](https://dl.acm.org/doi/pdf/10.1145/3269206.3271786) (CIKM'18)
 * GC-MC: [Graph Convolutional Matrix Completion](https://arxiv.org/pdf/1706.02263.pdf) (KDD'18)
 * SASRec: [Self-Attentive Sequential Recommendation](https://arxiv.org/pdf/1808.09781.pdf) (ICDM'18)
 * SDNets: [Adversarial Distillation for Efficient Recommendation with External Knowledge](https://dl.acm.org/doi/pdf/10.1145/3281659) (TOIS'18)
+
+
+### 2017
 * TransNet: [TransNets: Learning to Transform for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3109859.3109878) (Recsys'17)
 * DeepCoNN: [Joint Deep Modeling of Users and Items Using Reviews for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3018661.3018665) (WSDM'17)
 * ACF: [Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention](https://dl.acm.org/doi/pdf/10.1145/3077136.3080797) (SIGIR'17)
 * DMF: [Deep matrix factorization models for recommender systems](https://web.archive.org/web/20180721070244id_/https://www.ijcai.org/proceedings/2017/0447.pdf) (IJCAI'17)
 * NCF: [Neural Collaborative Filtering](http://184pc128.csie.ntnu.edu.tw/presentation/19-10-18/Neural%20Collaborative%20Filtering.pdf) (WWW'17)
+
+
+### ~2016
 * CDAE: [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](https://web.archive.org/web/20160803143925id_/http://alicezheng.org:80/papers/wsdm16-cdae.pdf) (WSDM'16)
 * ConvMF: [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://web.archive.org/web/20181222123319id_/http://uclab.khu.ac.kr:80/resources/publication/C_351.pdf) (RecSys'16)
 * eALS: [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](http://staff.ustc.edu.cn/~hexn/papers/sigir16-eals-cm.pdf) (SIGIR'16)
