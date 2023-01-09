@@ -60,6 +60,8 @@ I share information related to the Recommender System what I interested in. cons
 * TransNet: [TransNets: Learning to Transform for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3109859.3109878) (Recsys'17)
 * DeepCoNN: [Joint Deep Modeling of Users and Items Using Reviews for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3018661.3018665) (WSDM'17)
 * ACF: [Attentive Collaborative Filtering: Multimedia Recommendation with Item- and Component-Level Attention](https://dl.acm.org/doi/pdf/10.1145/3077136.3080797) (SIGIR'17)
+* CML: [Collaborative Metric Learning](https://dl.acm.org/doi/pdf/10.1145/3038912.3052639) (WWW'17)
+* NMF: [Neural Factorization Machines for Sparse Predictive Analytics](https://dl.acm.org/doi/pdf/10.1145/3077136.3080777) (SIGIR'17)
 * DMF: [Deep matrix factorization models for recommender systems](https://web.archive.org/web/20180721070244id_/https://www.ijcai.org/proceedings/2017/0447.pdf) (IJCAI'17)
 * NCF: [Neural Collaborative Filtering](http://184pc128.csie.ntnu.edu.tw/presentation/19-10-18/Neural%20Collaborative%20Filtering.pdf) (WWW'17)
 
@@ -75,6 +77,7 @@ I share information related to the Recommender System what I interested in. cons
 * CTR: [Collaborative topic modeling for recommending scientific articles](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf) (KDD'11)
 * MF: [Matrix factorization techniques for recommender systems](https://rakaposhi.eas.asu.edu/cse494/lsi-for-collab-filtering.pdf) (MC'09)
 * BPR: [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf) (UAI'09)
+* SoRec: [SoRec: Social Recommendation Using Probabilistic Matrix Factorization](https://dl.acm.org/doi/pdf/10.1145/1458082.1458205) (CIKM'08)
 * ALS: [Collaborative Filtering for Implicit Feedback Datasets](https://web.archive.org/web/20110401191554id_/http://www2.research.att.com/~yifanhu/PUB/cf.pdf) (ICDM'08)
 * RBM: [Restricted Boltzmann Machines for Collaborative Filtering](https://icml.cc/imls/conferences/2007/proceedings/papers/407.pdf) (ICML'07)
 * Item-Base CF: [Item-based top-N recommendation algorithms](https://emunix.emich.edu/~wsverdlik/COSC562/ItemBasedTopTen.pdf) (TOIS'04)
