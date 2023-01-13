@@ -1,7 +1,7 @@
 # Awesome Recsys
 I share information related to the Recommender System what I interested in. consist of `SIGIR`, `Recsys`, `ICLR`, `NeurIPS`, `ICML`, `AAAI`, `IJCAI`, `KDD`, `etc`
 
-- modified : 2022-12-28
+- modified : 2023-01-14
 
 
 ## Recommendation
@@ -15,6 +15,7 @@ I share information related to the Recommender System what I interested in. cons
 
 ### 2021
 * Transformer4Rec: [Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3460231.3474255) (Recsys'21)
+* NGF: [Neural graph filtering for context-aware recommendation](https://proceedings.mlr.press/v157/chuanyan21a/chuanyan21a.pdf) (ACML'21)
 * SGL: [Self-supervised Graph Learning for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3404835.3462862) (SIGIR'21)
 * MHCN: [Self-Supervised Multi-Channel Hypergraph Convolutional Network for Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449844) (WWW'21)
 * DHCN: [Self-Supervised Hypergraph Convolutional Networks for Session-based Recommendation](https://www.aaai.org/AAAI21Papers/AAAI-1889.XiaX.pdf?ref=https://githubhelp.com) (AAAI'21)
@@ -25,6 +26,9 @@ I share information related to the Recommender System what I interested in. cons
 * MixGCF: [MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3447548.3467408) (KDD'21)
 
 ### 2020
+* TAFA: [TAFA: Two-headed attention fused autoencoder for context-aware recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412268) (Recsys'20)
+* MBCN: [Multi-Branch Convolutional Network for Context-Aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401218) (SIGIR'20)
+* ENSFM: [Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3366423.3380303) (WWW'20)
 * S3-Rec: [S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization](https://dl.acm.org/doi/pdf/10.1145/3340531.3411954) (CIKM'20)
 * EHCF: [Efficient heterogeneous collaborative filtering without neg-ative sampling for recommendation](http://www.thuir.cn/group/~YQLiu/publications/AAAI2020Chen.pdf) (AAAI'20)
 * SSG: [Set-Sequence-Graph: A Multi-View Approach Towards Exploiting Reviews for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3340531.3411939) (CIKM'20)
@@ -54,6 +58,7 @@ I share information related to the Recommender System what I interested in. cons
 * GC-MC: [Graph Convolutional Matrix Completion](https://arxiv.org/pdf/1706.02263.pdf) (KDD'18)
 * SASRec: [Self-Attentive Sequential Recommendation](https://arxiv.org/pdf/1808.09781.pdf) (ICDM'18)
 * SDNets: [Adversarial Distillation for Efficient Recommendation with External Knowledge](https://dl.acm.org/doi/pdf/10.1145/3281659) (TOIS'18)
+* AIN: [An Attentive Interaction Network for Context-aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3269206.3271813) (CIKM'18)
 
 
 ### 2017
@@ -72,9 +77,11 @@ I share information related to the Recommender System what I interested in. cons
 * eALS: [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](http://staff.ustc.edu.cn/~hexn/papers/sigir16-eals-cm.pdf) (SIGIR'16)
 * AutoRec: [AutoRec: Autoencoders Meet Collaborative Filtering](https://web.archive.org/web/20160312152337id_/http://users.cecs.anu.edu.au/~ssanner/Papers/www15.pdf) (WWW'15)
 * CDL: [Collaborative Deep Learning for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/2783258.2783273) (KDD'15)
+* CSLIM: [Deviation-Based Contextual SLIM Recommenders](https://dl.acm.org/doi/pdf/10.1145/2661829.2661987) (CIKM'14)
 * LogisticMF: [Logistic Matrix Factorization for Implicit Feedback](http://web.stanford.edu/~rezab/nips2014workshop/submits/logmat.pdf) (NeurIPS'14)
 * HFT: [Hidden factors and hidden topics: understanding rating dimensions with review text](http://i.stanford.edu/~julian/pdfs/recsys13.pdf) (Recsys'13)
 * CTR: [Collaborative topic modeling for recommending scientific articles](http://www.cs.columbia.edu/~blei/papers/WangBlei2011.pdf) (KDD'11)
+* SLIM: [SLIM: Sparse Linear Methods for Top-N Recommender Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6137254) (ICDM'11)
 * MF: [Matrix factorization techniques for recommender systems](https://rakaposhi.eas.asu.edu/cse494/lsi-for-collab-filtering.pdf) (MC'09)
 * BPR: [BPR: Bayesian Personalized Ranking from Implicit Feedback](https://arxiv.org/ftp/arxiv/papers/1205/1205.2618.pdf) (UAI'09)
 * SoRec: [SoRec: Social Recommendation Using Probabilistic Matrix Factorization](https://dl.acm.org/doi/pdf/10.1145/1458082.1458205) (CIKM'08)
@@ -88,6 +95,7 @@ I share information related to the Recommender System what I interested in. cons
 * [Self-supervised Learning for Large-scale Item Recommendations](https://dl.acm.org/doi/pdf/10.1145/3459637.3481952) (CIKM'21)
 * [Disentangled Self-Supervision in Sequential Recommenders](https://dl.acm.org/doi/pdf/10.1145/3394486.3403091) (KDD'20)
 * [The YouTube video recommendation system](https://dl.acm.org/doi/pdf/10.1145/1864708.1864770) (Recsys'16)
+* [Multiverse Recommendation: N-dimensional Tensor Factorization for Context-aware Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/1864708.1864727) (Recsys'10)
 * [The Netflix prize](https://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.115.6998&rep=rep1&type=pdf) (KDD'07)
 * [Amazon.com recommendations: item-to-item collaborative filtering](http://www.cs.umd.edu/~samir/498/Amazon-Recommendations.pdf) (MIC'03)
 * [Item-based collaborative filtering recommendation algorithms](https://dl.acm.org/doi/pdf/10.1145/371920.372071?casa_token=ITskTAW3II0AAAAA:jy81AUSR7Dvr__wPVc8fqsU4djofU8HmReqC4MtYhvW75f25DpEcNmFFSJR7OxRa5LzwZdsP2GDtig) (WWW'01)
