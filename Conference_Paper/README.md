@@ -7,7 +7,7 @@
 - [KDD 2022](#KDD-2022)
 - [CIKM 2022](#CIKM-2022)
 - [WSDM 2022](#WSDM-2022)
-- [AAAI 2022](#AAAI-2022)
+- [WWW 2022](#WWW-2022)
 
 ## SIGIR 2022
 
@@ -224,7 +224,74 @@
 - [Contrastive Meta Learning with Behavior Multiplicity for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3488560.3498527)
 
 
-## AAAI 2022
+## WWW 2022
+
+- [Alleviating Cold-start Problem in CTR Prediction with A Variational Embedding Learning Framework](https://dl.acm.org/doi/pdf/10.1145/3485447.3512048)
+- [A Model-Agnostic Causal Learning Framework for Recommendation using Search Data](https://dl.acm.org/doi/pdf/10.1145/3485447.3511951)
+- [CAUSPref: Causal Preference Learning for Out-of-Distribution Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3511969)
+- [FairGAN: GANs-based Fairness-aware Learning for Recommendations with Implicit Feedback](https://dl.acm.org/doi/pdf/10.1145/3485447.3511958)
+- [Implicit User Awareness Modeling via Candidate Items for CTR Prediction in Search Ads](https://dl.acm.org/doi/pdf/10.1145/3485447.3511953)
+- [Modeling User Behavior with Graph Convolution for Personalized Product Search](https://dl.acm.org/doi/pdf/10.1145/3485447.3511949)
+- [Optimizing Rankings for Recommendation in Matching Markets](https://dl.acm.org/doi/pdf/10.1145/3485447.3511961)
+- [PNMTA: A Pretrained Network Modulation and Task Adaptation Approach for User Cold-Start Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3511963)
+- [Path Language Modeling over Knowledge Graphs for Explainable Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3511937)
+- [Collaborative Filtering with Attribution Alignment for Review-based Non-overlapped Cross Domain Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512166)
+- [Differential Private Knowledge Transfer for Privacy-Preserving Cross-Domain Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512192)
+- [Will You Accept the AI Recommendation? Predicting Human Behavior in AI-Assisted Decision Making](https://dl.acm.org/doi/pdf/10.1145/3485447.3512240)
+- [AutoField: Automating Feature Selection in Deep Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3485447.3512071)
+- [CBR: Context Bias aware Recommendation for Debiasing User Modeling and Click Prediction](https://dl.acm.org/doi/pdf/10.1145/3485447.3512099)
+- [Choice of Implicit Signal Matters: Accounting for User Aspirations in Podcast Recommendations](https://dl.acm.org/doi/pdf/10.1145/3485447.3512115)
+- [Consensus Learning from Heterogeneous Objectives for One-Class Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3485447.3512070)
+- [Cross Pairwise Ranking for Unbiased Item Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512010)
+- [Deep Unified Representation for Heterogeneous Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512087)
+- [Disentangling Long and Short-Term Interests for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512098)
+- [Efficient Online Learning to Rank for Sequential Music Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512116)
+- [Fast Variational AutoEncoder with Inverted Multi-Index for Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3485447.3512068)
+- [FeedRec: News Feed Recommendation with Various User Feedbacks](https://dl.acm.org/doi/pdf/10.1145/3485447.3512082)
+- [Filter-enhanced MLP is All You Need for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512111)
+- [FIRE: Fast Incremental Recommendation with Graph Signal Processing](https://dl.acm.org/doi/pdf/10.1145/3485447.3512108)
+- [Generative Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512095)
+- [Graph Neural Transport Networks with Non-local Attentions for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3485447.3512162)
+- [Graph-based Extractive Explainer for Recommendations](https://dl.acm.org/doi/pdf/10.1145/3485447.3512168)
+- [GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction](https://dl.acm.org/doi/pdf/10.1145/3485447.3512085)
+- [Hypercomplex Graph Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3485447.3512065)
+- [Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3512104)
+- [Intent Contrastive Learning for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512090)
+- [Learn over Past, Evolve for Future: Search-based Time-aware Recommendation with Sequential Behavior Data](https://dl.acm.org/doi/pdf/10.1145/3485447.3512117)
+- [Learning Robust Recommenders through Cross-Model Agreement](https://dl.acm.org/doi/pdf/10.1145/3485447.3512202)
+- [Learning to Augment for Casual User Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512147)
+- [MCL: Mixed-Centric Loss for Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3485447.3512106)
+- [MINDSim: User Simulator for News Recommenders](https://dl.acm.org/doi/pdf/10.1145/3485447.3512080)
+- [Modality Matches Modality: Pretraining Modality-Disentangled Item Representations for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512079)
+- [Multiple Choice Questions based Multi-Interest Policy Learning for Conversational Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512088)
+- [Mutually-Regularized Dual Collaborative Variational Auto-encoder for Recommendation Systems](https://dl.acm.org/doi/pdf/10.1145/3485447.3512110)
+- [Off-policy Learning over Heterogeneous Information for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512072)
+- [Rating Distribution Calibration for Selection Bias Mitigation in Recommendations](https://dl.acm.org/doi/pdf/10.1145/3485447.3512078)
+- [Re4: Learning to Re-contrast, Re-attend, Re-construct for Multi-interest Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512094)
+- [Sequential Recommendation via Stochastic Self-Attention](https://dl.acm.org/doi/pdf/10.1145/3485447.3512077)
+- [Sequential Recommendation with Decomposed Item Feature Routing](https://dl.acm.org/doi/pdf/10.1145/3485447.3512101)
+- [Stochastic-Expert Variational Autoencoder for Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3485447.3512120)
+- [Towards Automatic Discovering of Deep Hybrid Network Architecture for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512066)
+- [Unbiased Sequential Recommendation with Latent Confounders](https://dl.acm.org/doi/pdf/10.1145/3485447.3512092)
+- [A Contrastive Sharing Model for Multi-Task Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512043)
+- [Accurate and Explainable Recommendation via Review Rationalization](https://dl.acm.org/doi/pdf/10.1145/3485447.3512029)
+- [Comparative Explanations of Recommendations](https://dl.acm.org/doi/pdf/10.1145/3485447.3512031)
+- [Recommendation Unlearning](https://dl.acm.org/doi/pdf/10.1145/3485447.3511997)
+- [STAM: A Spatiotemporal Aggregation Method for Graph Neural Network-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512041)
+- [VisGNN: Personalized Visualization Recommendation via Graph Neural Networks](https://dl.acm.org/doi/pdf/10.1145/3485447.3512001)
+- [Who to Watch Next: Two-side Interactive Networks for Live Broadcast Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3511939)
+- [Causal Representation Learning for Out-of-Distribution Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512251)
+- [End-to-end Learning for Fair Ranking Systems](https://dl.acm.org/doi/pdf/10.1145/3485447.3512247)
+- [Following Good Examples – Health Goal-Oriented Food Recommendation based on Behavior Data](https://dl.acm.org/doi/pdf/10.1145/3485447.3514193)
+- [Link Recommendations for PageRank Fairness](https://dl.acm.org/doi/pdf/10.1145/3485447.3512249)
+- [DCAF-BERT: A Distilled Cachable Adaptable Factorized Model For Improved Ads CTR Prediction](https://assets.amazon.science/db/32/647b9dba4f7e8740780d63b90aa5/dcaf-bert-a-distilled-cachable-adaptable-factorized-model-for-improved-ads-ctr-prediction.pdf)
+- [DC-GNN: Decoupled Graph Neural Networks for Improving and Accelerating Large-Scale E-commerce Retrieval](https://dl.acm.org/doi/pdf/10.1145/3487553.3524203)
+
+
+
+
+
+
 
 
 
