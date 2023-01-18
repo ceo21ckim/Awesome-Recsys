@@ -167,7 +167,7 @@
 - [Disentangling Past-Future Modeling in Sequential Recommendation via Dual Networks](https://scholar.google.com/scholar?hl=ko&as_sdt=0%2C5&as_ylo=2022&q=Cross-domain+Recommendation+via+Adversarial+Adaptation&btnG=)
 - [Domain-Agnostic Constrastive Representations for Learning from Label Proportions](https://dl.acm.org/doi/pdf/10.1145/3511808.3557293)
 - [Dual-Task Learning for Multi-Behavior Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557298)
-- [Dynamic Causal Collaborative Filtering]([Dynamic Causal Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3511808.3557300))
+- [Dynamic Causal Collaborative Filtering][Dynamic Causal Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3511808.3557300)
 - [Dynamic Hypergraph Learning for Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3511808.3557301)
 - [Graph Based Long-Term And Short-Term Interest Model for Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3511808.3557336)
 - [Gromov-Wasserstein Guided Representation Learning for Cross-Domain Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557338)
