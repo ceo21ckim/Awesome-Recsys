@@ -1,6 +1,6 @@
 ## Conference Paper
 
-`SIGIR`, `Recsys`, `WSDM`, `KDD`, etc.
+`SIGIR`, `Recsys`, `WSDM`, `KDD`, `etc`.
 
 - [SIGIR 2022](#SIGIR-2022)
 - [RecSys 2022](#RecSys-2022)
