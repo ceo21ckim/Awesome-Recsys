@@ -38,6 +38,7 @@ I share information related to the Recommender System what I interested in. cons
 * SEE-PT: [SEE-PT: Sequential recommendation via personalized transformer](https://dl.acm.org/doi/abs/10.1145/3383313.3412258) (RecSys'20)
 * LightGCN: [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf) (SIGIR'20)
 * MBGCN: [Multi-behavior Recommendation with Graph Convolutional Networks](https://dl.acm.org/doi/pdf/10.1145/3397271.3401072) (SIGIR'20)
+* MA-GNN: [Memory Augmented Graph Neural Networks for Sequential Recommendation](https://www.atailab.cn/seminar2020spring/pdf/Memory%20Augmented%20Graph%20Neural%20Networks%20for%20Sequential%20Recommendation.pdf) (AAAI'20)
 
 
 ### 2019
