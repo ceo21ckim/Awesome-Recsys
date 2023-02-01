@@ -60,6 +60,7 @@ I share information related to the Recommender System what I interested in. cons
 * SASRec: [Self-Attentive Sequential Recommendation](https://arxiv.org/pdf/1808.09781.pdf) (ICDM'18)
 * SDNets: [Adversarial Distillation for Efficient Recommendation with External Knowledge](https://dl.acm.org/doi/pdf/10.1145/3281659) (TOIS'18)
 * AIN: [An Attentive Interaction Network for Context-aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3269206.3271813) (CIKM'18)
+* ConvNCF: [Outer Product-based Neural Collaborative Filtering](https://arxiv.org/pdf/1808.03912.pdf) (IJCAI'18)
 
 
 ### 2017
