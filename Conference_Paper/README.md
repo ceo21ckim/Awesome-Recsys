@@ -160,6 +160,7 @@
 - [An Uncertainty-Aware Imputation Framework for Alleviating the Sparsity Problem in Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3511808.3557236)
 - [Asymmetrical Context-aware Modulation for Collaborative Filtering Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557240)
 - [Automatic Meta-Path Discovery for Effective Graph-Based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557244)
+- [Beyond Learning from Next Item: Sequential Recommendation via Personalized Interest Sustainabilit](https://dl.acm.org/doi/pdf/10.1145/3511808.3557415)
 - [ContrastVAE: Contrastive Variational AutoEncoder for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557268)
 - [Cross-Domain Aspect Extraction using Transformers Augmented with Knowledge Graphs](https://dl.acm.org/doi/pdf/10.1145/3511808.3557275)
 - [Cross-domain Cross-architecture Black-box Attacks on Fine-tuned Models with Transferred Evolutionary Strategies](https://dl.acm.org/doi/pdf/10.1145/3511808.3557276)
