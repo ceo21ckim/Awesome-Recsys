@@ -12,6 +12,8 @@ I share information related to the Recommender System what I interested in. cons
 * ItemSage: [ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest](https://arxiv.org/pdf/2205.11728.pdf) (KDD'22)
 * DuoRec: [Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation](https://arxiv.org/pdf/2110.05730.pdf) (WSDM'22)
 * CL4SRec: [Contrastive Learning for Sequential Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835621) (ICDE'22)
+* FMLP-Rec: [FilterEnhanced MLP is All You Need for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512111) (WWW'22)
+* MBN: [MBN: Towards Multi-Behavior Sequence Modeling for Next Basket Recommendation](https://dl.acm.org/doi/pdf/10.1145/3497748)
 
 ### 2021
 * Transformer4Rec: [Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3460231.3474255) (Recsys'21)
