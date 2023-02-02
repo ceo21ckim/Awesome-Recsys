@@ -77,6 +77,7 @@ I share information related to the Recommender System what I interested in. cons
 * CDAE: [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](https://web.archive.org/web/20160803143925id_/http://alicezheng.org:80/papers/wsdm16-cdae.pdf) (WSDM'16)
 * ConvMF: [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://web.archive.org/web/20181222123319id_/http://uclab.khu.ac.kr:80/resources/publication/C_351.pdf) (RecSys'16)
 * eALS: [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](http://staff.ustc.edu.cn/~hexn/papers/sigir16-eals-cm.pdf) (SIGIR'16)
+* GRU4Rec: [Session-based Recommendations with Recurrent Neural Networks](https://arxiv.org/pdf/1511.06939.pdf) (ICLR'16)
 * AutoRec: [AutoRec: Autoencoders Meet Collaborative Filtering](https://web.archive.org/web/20160312152337id_/http://users.cecs.anu.edu.au/~ssanner/Papers/www15.pdf) (WWW'15)
 * CDL: [Collaborative Deep Learning for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/2783258.2783273) (KDD'15)
 * CSLIM: [Deviation-Based Contextual SLIM Recommenders](https://dl.acm.org/doi/pdf/10.1145/2661829.2661987) (CIKM'14)
