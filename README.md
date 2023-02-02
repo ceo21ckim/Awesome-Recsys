@@ -13,7 +13,7 @@ I share information related to the Recommender System what I interested in. cons
 * DuoRec: [Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation](https://arxiv.org/pdf/2110.05730.pdf) (WSDM'22)
 * CL4SRec: [Contrastive Learning for Sequential Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835621) (ICDE'22)
 * FMLP-Rec: [FilterEnhanced MLP is All You Need for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512111) (WWW'22)
-* MBN: [MBN: Towards Multi-Behavior Sequence Modeling for Next Basket Recommendation](https://dl.acm.org/doi/pdf/10.1145/3497748)
+* CML: [Contrastive Meta Learning with Behavior Multiplicity for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3488560.3498527) (WSDM'22)
 
 ### 2021
 * Transformer4Rec: [Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3460231.3474255) (Recsys'21)
@@ -51,6 +51,7 @@ I share information related to the Recommender System what I interested in. cons
 * KGCN: [Knowledge Graph Convolutional Networks for Recommender Systems](https://arxiv.org/pdf/1904.12575.pdf) (WWW'19)
 * GraphRec: [Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf) (WWW'19)
 * NARRE: [Neural Attentional Rating Regression with Review-level Explanations](https://dl.acm.org/doi/pdf/10.1145/3178876.3186070) (WWW'19)
+* METAS: [Action Space Learning for Heterogeneous User Behavior Prediction](https://dsail.kaist.ac.kr/files/IJCAI19_2.pdf) (IJCAI'19)
 
 
 ### 2018
