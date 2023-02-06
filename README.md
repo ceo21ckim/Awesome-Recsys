@@ -26,6 +26,7 @@ I share information related to the Recommender System what I interested in. cons
 * BUIR: [Bootstrapping User and Item Representations for One-Class Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3404835.3462935) (SIGIR'21) 
 * UltraGCN: [Ultra Simplification of Graph Convolutional Networks for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3459637.3482291) (CIKM'21)
 * MixGCF: [MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3447548.3467408) (KDD'21)
+* SERec: [An Efficient and Effective Framework for Session-based Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3437963.3441792) (WSDM'21)
 
 ### 2020
 * TAFA: [TAFA: Two-headed attention fused autoencoder for context-aware recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412268) (Recsys'20)
@@ -33,6 +34,7 @@ I share information related to the Recommender System what I interested in. cons
 * ENSFM: [Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3366423.3380303) (WWW'20)
 * S3-Rec: [S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization](https://dl.acm.org/doi/pdf/10.1145/3340531.3411954) (CIKM'20)
 * EHCF: [Efficient heterogeneous collaborative filtering without neg-ative sampling for recommendation](http://www.thuir.cn/group/~YQLiu/publications/AAAI2020Chen.pdf) (AAAI'20)
+* SCE-GNN: [Global Context Enhanced Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401142) (SIGIR'20)
 * SSG: [Set-Sequence-Graph: A Multi-View Approach Towards Exploiting Reviews for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3340531.3411939) (CIKM'20)
 * SML: [Symmetric Metric Learning with Adaptive Margin for Recommendation](https://www.researchgate.net/profile/Shuai-Zhang-12/publication/342542890_Symmetric_Metric_Learning_with_Adaptive_Margin_for_Recommendation/links/6002ea7645851553a049d2e8/Symmetric-Metric-Learning-with-Adaptive-Margin-for-Recommendation.pdf) (AAAI'20)
 * KHGT: [Knowledge-Enhanced Hierarchical Graph Transformer Network for Multi-Behavior Recommendation](https://www.aaai.org/AAAI21Papers/AAAI-3071.XiaL.pdf) (AAAI'20)
@@ -52,6 +54,7 @@ I share information related to the Recommender System what I interested in. cons
 * GraphRec: [Graph Neural Networks for Social Recommendation](https://arxiv.org/pdf/1902.07243.pdf) (WWW'19)
 * NARRE: [Neural Attentional Rating Regression with Review-level Explanations](https://dl.acm.org/doi/pdf/10.1145/3178876.3186070) (WWW'19)
 * METAS: [Action Space Learning for Heterogeneous User Behavior Prediction](https://dsail.kaist.ac.kr/files/IJCAI19_2.pdf) (IJCAI'19)
+* SR-GNN: [Session-based recommendation with graph neural networks](https://www.atailab.cn/ir2019fall/pdf/chenyunqin.pdf) (AAAI'19)
 
 
 ### 2018
@@ -64,6 +67,7 @@ I share information related to the Recommender System what I interested in. cons
 * SDNets: [Adversarial Distillation for Efficient Recommendation with External Knowledge](https://dl.acm.org/doi/pdf/10.1145/3281659) (TOIS'18)
 * AIN: [An Attentive Interaction Network for Context-aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3269206.3271813) (CIKM'18)
 * ConvNCF: [Outer Product-based Neural Collaborative Filtering](https://arxiv.org/pdf/1808.03912.pdf) (IJCAI'18)
+* STAMP: [STAMP: shortterm attention/memory priority model for session-based recommendation](https://dl.acm.org/doi/pdf/10.1145/3219819.3219950)
 
 
 ### 2017
@@ -73,6 +77,7 @@ I share information related to the Recommender System what I interested in. cons
 * CML: [Collaborative Metric Learning](https://dl.acm.org/doi/pdf/10.1145/3038912.3052639) (WWW'17)
 * NMF: [Neural Factorization Machines for Sparse Predictive Analytics](https://dl.acm.org/doi/pdf/10.1145/3077136.3080777) (SIGIR'17)
 * DMF: [Deep matrix factorization models for recommender systems](https://web.archive.org/web/20180721070244id_/https://www.ijcai.org/proceedings/2017/0447.pdf) (IJCAI'17)
+* NARM: [Neural attentive session-based recommendation](https://dl.acm.org/doi/pdf/10.1145/3132847.3132926) (CIKM'17)
 * NCF: [Neural Collaborative Filtering](http://184pc128.csie.ntnu.edu.tw/presentation/19-10-18/Neural%20Collaborative%20Filtering.pdf) (WWW'17)
 
 
