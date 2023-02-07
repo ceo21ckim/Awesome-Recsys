@@ -14,6 +14,7 @@ I share information related to the Recommender System what I interested in. cons
 * CL4SRec: [Contrastive Learning for Sequential Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835621) (ICDE'22)
 * FMLP-Rec: [FilterEnhanced MLP is All You Need for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512111) (WWW'22)
 * CML: [Contrastive Meta Learning with Behavior Multiplicity for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3488560.3498527) (WSDM'22)
+* Tiger: [Tiger: Transferable Interest Graph Embedding for Domain-Level Zero-Shot Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557472) (CIKM'22)
 
 ### 2021
 * Transformer4Rec: [Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3460231.3474255) (Recsys'21)
