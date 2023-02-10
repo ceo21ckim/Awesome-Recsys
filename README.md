@@ -28,7 +28,7 @@ I share information related to the Recommender System what I interested in. cons
 * UltraGCN: [Ultra Simplification of Graph Convolutional Networks for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3459637.3482291) (CIKM'21)
 * MixGCF: [MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3447548.3467408) (KDD'21)
 * SERec: [An Efficient and Effective Framework for Session-based Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3437963.3441792) (WSDM'21)
-* CL4SRec: [Contrastive Learning for Sequential Recommendation]() (SIGIR'21)
+* CL4SRec: [Contrastive Learning for Sequential Recommendation](https://arxiv.org/pdf/2010.14395.pdf) (SIGIR'21)
 
 
 ### 2020
