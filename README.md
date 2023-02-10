@@ -11,7 +11,6 @@ I share information related to the Recommender System what I interested in. cons
 ### 2022
 * ItemSage: [ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest](https://arxiv.org/pdf/2205.11728.pdf) (KDD'22)
 * DuoRec: [Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation](https://arxiv.org/pdf/2110.05730.pdf) (WSDM'22)
-* CL4SRec: [Contrastive Learning for Sequential Recommendation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835621) (ICDE'22)
 * FMLP-Rec: [FilterEnhanced MLP is All You Need for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512111) (WWW'22)
 * CML: [Contrastive Meta Learning with Behavior Multiplicity for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3488560.3498527) (WSDM'22)
 * Tiger: [Tiger: Transferable Interest Graph Embedding for Domain-Level Zero-Shot Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557472) (CIKM'22)
@@ -29,6 +28,8 @@ I share information related to the Recommender System what I interested in. cons
 * UltraGCN: [Ultra Simplification of Graph Convolutional Networks for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3459637.3482291) (CIKM'21)
 * MixGCF: [MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3447548.3467408) (KDD'21)
 * SERec: [An Efficient and Effective Framework for Session-based Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3437963.3441792) (WSDM'21)
+* CL4SRec: [Contrastive Learning for Sequential Recommendation]() (SIGIR'21)
+
 
 ### 2020
 * TAFA: [TAFA: Two-headed attention fused autoencoder for context-aware recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412268) (Recsys'20)
