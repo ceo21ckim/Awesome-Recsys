@@ -17,6 +17,7 @@ I share information related to the Recommender System what I interested in. cons
 * AiRS: [AiRS: A Large-Scale Recommender System at NAVER News](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835494) (ICDE'22)
 
 ### 2021
+* MAIL: [Zero Shot on the Cold-Start Problem: Model-Agnostic Interest Learning for Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3459637.3482312) (CIKM'21)
 * Transformer4Rec: [Transformers4Rec: Bridging the Gap between NLP and Sequential / Session-Based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3460231.3474255) (Recsys'21)
 * NGF: [Neural graph filtering for context-aware recommendation](https://proceedings.mlr.press/v157/chuanyan21a/chuanyan21a.pdf) (ACML'21)
 * SGL: [Self-supervised Graph Learning for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3404835.3462862) (SIGIR'21)
@@ -36,6 +37,7 @@ I share information related to the Recommender System what I interested in. cons
 * MBCN: [Multi-Branch Convolutional Network for Context-Aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401218) (SIGIR'20)
 * ENSFM: [Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3366423.3380303) (WWW'20)
 * S3-Rec: [S3-Rec: Self-Supervised Learning for Sequential Recommendation with Mutual Information Maximization](https://dl.acm.org/doi/pdf/10.1145/3340531.3411954) (CIKM'20)
+* DMR: [Deep Match to Rank Model for Personalized Click-Through Rate Prediction](https://www.atailab.cn/ir2020fall/pdf/gaoyulan.pdf) (AAAI'20)
 * EHCF: [Efficient heterogeneous collaborative filtering without neg-ative sampling for recommendation](http://www.thuir.cn/group/~YQLiu/publications/AAAI2020Chen.pdf) (AAAI'20)
 * SCE-GNN: [Global Context Enhanced Graph Neural Networks for Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401142) (SIGIR'20)
 * SSG: [Set-Sequence-Graph: A Multi-View Approach Towards Exploiting Reviews for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3340531.3411939) (CIKM'20)
@@ -49,6 +51,9 @@ I share information related to the Recommender System what I interested in. cons
 
 
 ### 2019
+
+* LLAE: [From Zero-Shot Learning to Cold-Start Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/4324) (AAAI'19)
+* MetaEmb: [Warm Up Cold-start Advertisements: Improving CTR Predictions via Learning to Learn ID Embeddings](https://dl.acm.org/doi/pdf/10.1145/3331184.3331268) (SIGIR'19)
 * NMTR: [Neural Multi-Task Recommendation from Multi-Behavior Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8731537) (ICDE'19)
 * NGCF: [Neural Graph Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3331184.3331267) (SIGIR'19)
 * BERT4Rec: [BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer](https://arxiv.org/pdf/1904.06690.pdf) (CIKM'19)
