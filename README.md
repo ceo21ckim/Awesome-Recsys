@@ -15,6 +15,7 @@ I share information related to the Recommender Systems what I interested in. The
 * CML: [Contrastive Meta Learning with Behavior Multiplicity for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3488560.3498527) (WSDM'22)
 * Tiger: [Tiger: Transferable Interest Graph Embedding for Domain-Level Zero-Shot Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557472) (CIKM'22)
 * AiRS: [AiRS: A Large-Scale Recommender System at NAVER News](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835494) (ICDE'22)
+* CoRGi: [CORGI: Content-Rich Graph Neural Networks with Attention](https://dl.acm.org/doi/pdf/10.1145/3534678.3539306) (KDD'22)
 
 ### 2021
 * MAIL: [Zero Shot on the Cold-Start Problem: Model-Agnostic Interest Learning for Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3459637.3482312) (CIKM'21)
