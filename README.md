@@ -9,6 +9,8 @@ I share information related to the Recommender Systems what I interested in. The
 ### Models 
 
 ### 2022
+
+* PinnerFormer: [PinnerFormer: Sequence Modeling for User Representation at Pinterest](https://arxiv.org/pdf/2205.04507.pdf) (KDD'22)
 * ItemSage: [ItemSage: Learning Product Embeddings for Shopping Recommendations at Pinterest](https://arxiv.org/pdf/2205.11728.pdf) (KDD'22)
 * DuoRec: [Contrastive Learning for Representation Degeneration Problem in Sequential Recommendation](https://arxiv.org/pdf/2110.05730.pdf) (WSDM'22)
 * FMLP-Rec: [FilterEnhanced MLP is All You Need for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512111) (WWW'22)
