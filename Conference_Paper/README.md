@@ -150,6 +150,7 @@
 - [Counteracting User Attention Bias in Music Streaming Recommendation via Reward Modification](https://dl.acm.org/doi/pdf/10.1145/3534678.3539393)
 - [Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3534678.3539461)
 - [Self-Supervised Hypergraph Transformer for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3534678.3539473)
+- [PinnerFormer: Sequence Modeling for User Representation at Pinterest](https://arxiv.org/pdf/2205.04507.pdf)
 
 
 ## CIKM 2022
