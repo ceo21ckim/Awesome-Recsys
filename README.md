@@ -36,6 +36,7 @@ I share information related to the Recommender Systems what I interested in. The
 
 
 ### 2020
+* PinnerSage: [PinnerSage: Multi-Modal User Embedding Framework for Recommendations at Pinterest](https://dl.acm.org/doi/pdf/10.1145/3394486.3403280) (KDD'20)
 * TAFA: [TAFA: Two-headed attention fused autoencoder for context-aware recommendations](https://dl.acm.org/doi/pdf/10.1145/3383313.3412268) (Recsys'20)
 * MBCN: [Multi-Branch Convolutional Network for Context-Aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3397271.3401218) (SIGIR'20)
 * ENSFM: [Efficient Non-Sampling Factorization Machines for Optimal Context-Aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3366423.3380303) (WWW'20)
