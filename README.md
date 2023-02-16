@@ -70,6 +70,7 @@ I share information related to the Recommender Systems what I interested in. The
 
 
 ### 2018
+* Caser: [Personalized Top-N Sequential Recommendation via Convolutional Sequence Embedding](https://arxiv.org/pdf/1809.07426.pdf) (WSDM'18)
 * PinSage: [Graph Convolutional Neural Networks for Web-Scale Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3219819.32198900) (KDD'18)
 * HIN: [Adaptive Implicit Friends Identification over Heterogeneous Network for Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3269206.3271725) (CIKM'18)
 * VAE: [Variational Autoencoders for Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3178876.3186150) (WWW'18)
