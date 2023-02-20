@@ -1,6 +1,8 @@
 ## Conference Paper
 
-`SIGIR`, `Recsys`, `WSDM`, `KDD`, `etc`. `None` means unavailable URL or papers that have not been published yet.
+`SIGIR`, `Recsys`, `WSDM`, `KDD`, `etc`. 
+
+`None` means unavailable URL or papers that have not been published yet.
 
 - [WSDM 2023](#WSDM-2023)
 - [SIGIR 2022](#SIGIR-2022)
