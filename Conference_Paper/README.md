@@ -4,24 +4,25 @@
 
 `None` means unavailable URL or papers that have not been published yet.
 
-- [WSDM 2023](#WSDM-2023)
-- [ICLR 2023](#ICLR-2023)
-- `RecSys'23`: September 17-22
-- `SIGIR'23`: July 23-27
-- `KDD'23`: August 6-10
-- `CIKM'23`: October 21-25
-- `WWW'23`: April 30 - May 4
-- `IJCAI'23`: August 19-25
-- `ICML'23`: July 23-29
+- 2023
+  - [WSDM 2023](#WSDM-2023)
+  - [ICLR 2023](#ICLR-2023)
+  - `RecSys'23`: September 17-22
+  - `SIGIR'23`: July 23-27
+  - `KDD'23`: August 6-10
+  - `CIKM'23`: October 21-25
+  - `WWW'23`: April 30 - May 4
+  - `IJCAI'23`: August 19-25
+  - `ICML'23`: July 23-29
 
 
-
-- [SIGIR 2022](#SIGIR-2022)
-- [RecSys 2022](#RecSys-2022)
-- [KDD 2022](#KDD-2022)
-- [CIKM 2022](#CIKM-2022)
-- [WSDM 2022](#WSDM-2022)
-- [WWW 2022](#WWW-2022)
+- 2022
+  - [SIGIR 2022](#SIGIR-2022)
+  - [RecSys 2022](#RecSys-2022)
+  - [KDD 2022](#KDD-2022)
+  - [CIKM 2022](#CIKM-2022)
+  - [WSDM 2022](#WSDM-2022)
+  - [WWW 2022](#WWW-2022)
 
 
 ## WSDM 2023
