@@ -1,7 +1,7 @@
 # Awesome Recsys
 I share information related to the Recommender Systems that I am interested in. They consist of `SIGIR`, `RecSys`, `ICLR`, `NeurIPS`, `ICML`, `AAAI`, `IJCAI`, `KDD`, `etc`. If you want to see each Conference paper chronologically, Click [here](https://github.com/ceo21ckim/Awesome-Recsys/tree/main/Conference_Paper).
 
-- modified : 2023-02-21
+- modified : 2023-02-22
 
 
 ## Recommendation
@@ -18,6 +18,7 @@ I share information related to the Recommender Systems that I am interested in. 
 * Tiger: [Tiger: Transferable Interest Graph Embedding for Domain-Level Zero-Shot Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557472) (CIKM'22)
 * AiRS: [AiRS: A Large-Scale Recommender System at NAVER News](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835494) (ICDE'22)
 * CoRGi: [CORGI: Content-Rich Graph Neural Networks with Attention](https://dl.acm.org/doi/pdf/10.1145/3534678.3539306) (KDD'22)
+* iALS: [Revisiting the Performance of iALS on Item Recommendation Benchmarks](https://dl.acm.org/doi/pdf/10.1145/3523227.3548486) (RecSys'22)
 
 ### 2021
 * MAIL: [Zero Shot on the Cold-Start Problem: Model-Agnostic Interest Learning for Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3459637.3482312) (CIKM'21)
