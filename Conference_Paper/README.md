@@ -196,6 +196,7 @@
 - [Toward Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://arxiv.org/pdf/2206.02633.pdf)
 - [Towards Psychologically Grounded Dynamic Preference Models](https://dl.acm.org/doi/pdf/10.1145/3523227.3546778)
 - [You Say Factorization Machine, I Say Neural Network – It’s All in the Activation](https://dl.acm.org/doi/pdf/10.1145/3523227.3551499)
+- [Revisiting the Performance of iALS on Item Recommendation Benchmarks](https://dl.acm.org/doi/pdf/10.1145/3523227.3548486)
 
 
 ## KDD 2022
