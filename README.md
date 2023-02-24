@@ -18,7 +18,6 @@ I share information related to the Recommender Systems that I am interested in. 
 * Tiger: [Tiger: Transferable Interest Graph Embedding for Domain-Level Zero-Shot Recommendation](https://dl.acm.org/doi/pdf/10.1145/3511808.3557472) (CIKM'22)
 * AiRS: [AiRS: A Large-Scale Recommender System at NAVER News](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835494) (ICDE'22)
 * CoRGi: [CORGI: Content-Rich Graph Neural Networks with Attention](https://dl.acm.org/doi/pdf/10.1145/3534678.3539306) (KDD'22)
-* iALS: [Revisiting the Performance of iALS on Item Recommendation Benchmarks](https://dl.acm.org/doi/pdf/10.1145/3523227.3548486) (RecSys'22)
 * SimGCL: [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3477495.3531937) (SIGIR'22)
 
 ### 2021
