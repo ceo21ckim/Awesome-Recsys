@@ -7,6 +7,7 @@
 - 2023
   - [WSDM 2023](#WSDM-2023)
   - [ICLR 2023](#ICLR-2023)
+  - [AAAI 2023](#AAAI-2023)
   - `RecSys'23`: September 17-22
   - `SIGIR'23`: July 23-27
   - `KDD'23`: August 6-10
@@ -80,6 +81,10 @@
 - [Online Low Rank Matrix Completion](https://arxiv.org/pdf/2209.03997.pdf)
 - [StableDR: Stabilized Doubly Robust Learning for Recommendation on Data Missing Not at Random](https://arxiv.org/pdf/2205.04701.pdf)
 - [MaskFusion: Feature Augmentation for Click-Through Rate Prediction via Input-adaptive Mask Fusion](https://openreview.net/pdf?id=QzbKH8nNq_V)
+
+## AAAI 2023
+
+- [Scaling Law for Recommendation Models: Towards General-purpose User Representations](https://arxiv.org/pdf/2111.11294.pdf)
 
 
 # 2022
