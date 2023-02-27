@@ -81,6 +81,7 @@
 - [Online Low Rank Matrix Completion](https://arxiv.org/pdf/2209.03997.pdf)
 - [StableDR: Stabilized Doubly Robust Learning for Recommendation on Data Missing Not at Random](https://arxiv.org/pdf/2205.04701.pdf)
 - [MaskFusion: Feature Augmentation for Click-Through Rate Prediction via Input-adaptive Mask Fusion](https://openreview.net/pdf?id=QzbKH8nNq_V)
+- [LightGCL: Simple Yet Effective Graph Contrastive Learning for Recommendation](https://openreview.net/pdf?id=FKXVK9dyMM)
 
 ## AAAI 2023
 
