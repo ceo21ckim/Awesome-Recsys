@@ -10,7 +10,7 @@ I share information related to the Recommender Systems that I am interested in. 
 
 ### 2023
 
-* DCAH: [Search Behavior Prediction: A Hypergraph Perspective](https://arxiv.org/pdf/2211.13328.pdf)
+* DCAH: [Search Behavior Prediction: A Hypergraph Perspective](https://arxiv.org/pdf/2211.13328.pdf) (WSDM'23)
 
 ### 2022
 
