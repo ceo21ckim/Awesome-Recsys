@@ -42,7 +42,7 @@
 - [Disentangled Representation for Diversified Recommendations](https://arxiv.org/pdf/2301.05492.pdf)
 - [Heterogeneous Graph-based Context-aware Document Ranking](http://playbigdata.ruc.edu.cn/dou/publication/2023_wsdm_session.pdf)
 - [Cognition-aware Knowledge Graph Reasoning for Explainable Recommendation](http://playbigdata.ruc.edu.cn/dou/publication/2023_wsdm_congnition.pdf)
-- [Separating Examination and Trust Bias from Click Predictions for Unbiased Relevance Ranking](Separating Examination and Trust Bias from Click Predictions for Unbiased Relevance Ranking)
+- [Separating Examination and Trust Bias from Click Predictions for Unbiased Relevance Ranking](https://dl.acm.org/doi/pdf/10.1145/3539597.3570393)
 - [Self-Supervised Group Graph Collaborative Filtering for Group Recommendation](https://dl.acm.org/doi/pdf/10.1145/3539597.3570400)
 - [Learning Topical Stance Embeddings from Signed Social Graphs](https://arxiv.org/pdf/2201.11675.pdf)
 - `None`:[Calibrated Recommendations as a Maximum Flow Problem]()
