@@ -8,6 +8,10 @@ I share information related to the Recommender Systems that I am interested in. 
 
 ### Models 
 
+### 2023
+
+* DCAH: [Search Behavior Prediction: A Hypergraph Perspective](https://arxiv.org/pdf/2211.13328.pdf)
+
 ### 2022
 
 * PinnerFormer: [PinnerFormer: Sequence Modeling for User Representation at Pinterest](https://arxiv.org/pdf/2205.04507.pdf) (KDD'22)
