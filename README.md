@@ -68,6 +68,8 @@ I share information related to the Recommender Systems that I am interested in. 
 * NARRE: [Neural Attentional Rating Regression with Review-level Explanations](https://dl.acm.org/doi/pdf/10.1145/3178876.3186070) (WWW'19)
 * METAS: [Action Space Learning for Heterogeneous User Behavior Prediction](https://dsail.kaist.ac.kr/files/IJCAI19_2.pdf) (IJCAI'19)
 * SR-GNN: [Session-based recommendation with graph neural networks](https://www.atailab.cn/ir2019fall/pdf/chenyunqin.pdf) (AAAI'19)
+* SelCa: [Recommender System Using Sequential and Global Preference via Attention Mechanism and Topic Modeling
+](https://dl.acm.org/doi/pdf/10.1145/3357384.3358054?casa_token=kO28r-0VvmcAAAAA:fKPujREdM3yNGRUphi9zPvzDbmnzAwy715zunIkTPyPszz9As-H_TAzdDitI0PBJDutyNVFcS_2Fsw8L) (CIKM'19)
 
 
 ### 2018
