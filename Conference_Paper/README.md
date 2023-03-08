@@ -45,7 +45,7 @@
 - [Separating Examination and Trust Bias from Click Predictions for Unbiased Relevance Ranking](https://dl.acm.org/doi/pdf/10.1145/3539597.3570393)
 - [Self-Supervised Group Graph Collaborative Filtering for Group Recommendation](https://dl.acm.org/doi/pdf/10.1145/3539597.3570400)
 - [Learning Topical Stance Embeddings from Signed Social Graphs](https://arxiv.org/pdf/2201.11675.pdf)
-- `None`:[Calibrated Recommendations as a Maximum Flow Problem]()
+- [Calibrated Recommendations as a Minimum-Cost Flow Problem](https://dl.acm.org/doi/pdf/10.1145/3539597.3570402)
 - [Search Behavior Prediction: A Hypergraph Perspective](https://arxiv.org/pdf/2211.13328.pdf)
 - [DisenPOI: Disentangling Sequential and Geographical Influence for Point-of-Interest Recommendation](https://arxiv.org/pdf/2210.16591.pdf)
 - [Multi-Intentions Oriented Contrastive Learning for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3539597.3570411)
