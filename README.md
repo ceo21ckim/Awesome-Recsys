@@ -23,6 +23,8 @@ I share information related to the Recommender Systems that I am interested in. 
 * AiRS: [AiRS: A Large-Scale Recommender System at NAVER News](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835494) (ICDE'22)
 * CoRGi: [CORGI: Content-Rich Graph Neural Networks with Attention](https://dl.acm.org/doi/pdf/10.1145/3534678.3539306) (KDD'22)
 * SimGCL: [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3477495.3531937) (SIGIR'22)
+* HCCF: [Hypergraph Contrastive Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3477495.3532058) (SIGIR'22)
+* NCL: [Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3512104) (WWW'22)
 
 ### 2021
 * MAIL: [Zero Shot on the Cold-Start Problem: Model-Agnostic Interest Learning for Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3459637.3482312) (CIKM'21)
