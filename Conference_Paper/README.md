@@ -374,7 +374,7 @@
 - [Link Recommendations for PageRank Fairness](https://dl.acm.org/doi/pdf/10.1145/3485447.3512249)
 - [DCAF-BERT: A Distilled Cachable Adaptable Factorized Model For Improved Ads CTR Prediction](https://assets.amazon.science/db/32/647b9dba4f7e8740780d63b90aa5/dcaf-bert-a-distilled-cachable-adaptable-factorized-model-for-improved-ads-ctr-prediction.pdf)
 - [DC-GNN: Decoupled Graph Neural Networks for Improving and Accelerating Large-Scale E-commerce Retrieval](https://dl.acm.org/doi/pdf/10.1145/3487553.3524203)
-
+- [Simgrace: A Simple Framework for graph contrastive learning without data augmentation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512156)
 
 
 
