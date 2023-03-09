@@ -25,6 +25,11 @@ I share information related to the Recommender Systems that I am interested in. 
 * SimGCL: [Are Graph Augmentations Necessary? Simple Graph Contrastive Learning for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3477495.3531937) (SIGIR'22)
 * HCCF: [Hypergraph Contrastive Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3477495.3532058) (SIGIR'22)
 * NCL: [Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3512104) (WWW'22)
+* SHT: [Self-Supervised Hypergraph Transformer for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3534678.3539473) (KDD'22)
+* SimGRACE: [Simgrace: A Simple Framework for graph contrastive learning without data augmentation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512156) (WWW'22)
+* AutoGCL: [Autogcl: Automated graph contrastive learning via learnable view generators](https://arxiv.org/pdf/2109.10259.pdf) (AAAI'22)
+* SAIL: [SAIL: Self-Augmented Graph Contrastive Learning](https://arxiv.org/pdf/2009.00934.pdf) (AAAI'22)
+
 
 ### 2021
 * MAIL: [Zero Shot on the Cold-Start Problem: Model-Agnostic Interest Learning for Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3459637.3482312) (CIKM'21)
@@ -40,6 +45,7 @@ I share information related to the Recommender Systems that I am interested in. 
 * MixGCF: [MixGCF: An Improved Training Method for Graph Neural Network-based Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3447548.3467408) (KDD'21)
 * SERec: [An Efficient and Effective Framework for Session-based Social Recommendation](https://dl.acm.org/doi/pdf/10.1145/3437963.3441792) (WSDM'21)
 * CL4SRec: [Contrastive Learning for Sequential Recommendation](https://arxiv.org/pdf/2010.14395.pdf) (SIGIR'21)
+* GCA: [Graph Contrastive Learning with Adaptive Augmentation](https://dl.acm.org/doi/pdf/10.1145/3442381.3449802) (WWW'21)
 
 
 ### 2020
@@ -59,6 +65,10 @@ I share information related to the Recommender Systems that I am interested in. 
 * LightGCN: [LightGCN: Simplifying and Powering Graph Convolution Network for Recommendation](https://arxiv.org/pdf/2002.02126.pdf) (SIGIR'20)
 * MBGCN: [Multi-behavior Recommendation with Graph Convolutional Networks](https://dl.acm.org/doi/pdf/10.1145/3397271.3401072) (SIGIR'20)
 * MA-GNN: [Memory Augmented Graph Neural Networks for Sequential Recommendation](https://www.atailab.cn/seminar2020spring/pdf/Memory%20Augmented%20Graph%20Neural%20Networks%20for%20Sequential%20Recommendation.pdf) (AAAI'20)
+* GCCF: [Revisiting Graph based Collaborative Filtering: A Linear Residual Graph Convolutional Network Approach](https://arxiv.org/pdf/2001.10167.pdf) (AAAI'20)
+* HyRec: [Next-item Recommendation with Sequential Hypergraphs](https://dl.acm.org/doi/pdf/10.1145/3397271.3401133) (SIGIR'20)
+* DGCF: [Disentangled Graph Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3397271.3401137) (SIGIR'20)
+* GRACE: [Deep Graph Contrastive Representation Learning](https://arxiv.org/pdf/2006.04131.pdf) (arXiv'20)
 
 
 ### 2019
