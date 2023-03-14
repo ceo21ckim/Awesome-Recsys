@@ -111,10 +111,12 @@ I share information related to the Recommender Systems that I am interested in. 
 * DMF: [Deep matrix factorization models for recommender systems](https://web.archive.org/web/20180721070244id_/https://www.ijcai.org/proceedings/2017/0447.pdf) (IJCAI'17)
 * NARM: [Neural attentive session-based recommendation](https://dl.acm.org/doi/pdf/10.1145/3132847.3132926) (CIKM'17)
 * NCF: [Neural Collaborative Filtering](http://184pc128.csie.ntnu.edu.tw/presentation/19-10-18/Neural%20Collaborative%20Filtering.pdf) (WWW'17)
+* GRU: [Sequential User-based Recurrent Neural Network Recommendations](https://dl.acm.org/doi/pdf/10.1145/3109859.3109877) (RecSys'17)
 
 
 ### ~2016
 * CDAE: [Collaborative Denoising Auto-Encoders for Top-N Recommender Systems](https://web.archive.org/web/20160803143925id_/http://alicezheng.org:80/papers/wsdm16-cdae.pdf) (WSDM'16)
+* DREAM: [A Dynamic Recurrent Model for Next Basket Recommendation](https://dl.acm.org/doi/pdf/10.1145/2911451.2914683) (SIGIR'16)
 * ConvMF: [Convolutional Matrix Factorization for Document Context-Aware Recommendation](https://web.archive.org/web/20181222123319id_/http://uclab.khu.ac.kr:80/resources/publication/C_351.pdf) (RecSys'16)
 * eALS: [Fast Matrix Factorization for Online Recommendation with Implicit Feedback](http://staff.ustc.edu.cn/~hexn/papers/sigir16-eals-cm.pdf) (SIGIR'16)
 * GRU4Rec: [Session-based Recommendations with Recurrent Neural Networks](https://arxiv.org/pdf/1511.06939.pdf) (ICLR'16)
