@@ -29,6 +29,7 @@ I share information related to the Recommender Systems that I am interested in. 
 * SimGRACE: [Simgrace: A Simple Framework for graph contrastive learning without data augmentation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512156) (WWW'22)
 * AutoGCL: [Autogcl: Automated graph contrastive learning via learnable view generators](https://arxiv.org/pdf/2109.10259.pdf) (AAAI'22)
 * SAIL: [SAIL: Self-Augmented Graph Contrastive Learning](https://arxiv.org/pdf/2009.00934.pdf) (AAAI'22)
+* UniSRec: [Towards Universal Sequence Representation Learning for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3534678.3539381) (KDD'22)
 
 
 ### 2021
