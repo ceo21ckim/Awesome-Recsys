@@ -343,7 +343,7 @@
 - [Generative Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512095)
 - [Graph Neural Transport Networks with Non-local Attentions for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3485447.3512162)
 - [Graph-based Extractive Explainer for Recommendations](https://dl.acm.org/doi/pdf/10.1145/3485447.3512168)
-- [GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction](https://dl.acm.org/doi/pdf/10.1145/3485447.3512085)
+- [GSL4Rec: Session-based Recommendations with Collective Graph Structure Learning and Next Interaction Prediction](https://web.archive.org/web/20220430201147id_/https://dl.acm.org/doi/pdf/10.1145/3485447.3512085)
 - [Hypercomplex Graph Collaborative Filtering](https://dl.acm.org/doi/pdf/10.1145/3485447.3512065)
 - [Improving Graph Collaborative Filtering with Neighborhood-enriched Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3485447.3512104)
 - [Intent Contrastive Learning for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512090)
