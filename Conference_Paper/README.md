@@ -21,10 +21,11 @@
   - [SIGIR 2022](#SIGIR-2022)
   - [RecSys 2022](#RecSys-2022)
   - [KDD 2022](#KDD-2022)
-  - [CIKM 2022](#CIKM-2022)
   - [WSDM 2022](#WSDM-2022)
+  - [CIKM 2022](#CIKM-2022)
   - [WWW 2022](#WWW-2022)
   - [IJCAI 2022](#IJCAI-2022)
+  - [ICML 2022](#ICML 2022)
 
 
 # 2023
@@ -394,7 +395,10 @@
 - [Trading Hard Negatives and True Negatives: A Debiased Contrastive Collaborative Filtering Approach](https://arxiv.org/pdf/2204.11752.pdf)
 
 
+## ICML 2022
 
+- [Estimating and Penalizing Induced Preference Shifts in Recommender Systems](https://proceedings.mlr.press/v162/carroll22a/carroll22a.pdf)
+- [Learning from a Learning User for Optimal Recommendations](https://proceedings.mlr.press/v162/yao22a/yao22a.pdf)
 
 
 
