@@ -390,7 +390,7 @@
 - [Heterogeneous Interactive Snapshot Network for Review-Enhanced Stock Profiling and Recommendation](https://www.ijcai.org/proceedings/2022/0550.pdf)
 - [Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences](https://www.ijcai.org/proceedings/2022/0521.pdf)
 - [Poisoning Deep Learning Based Recommender Model in Federated Learning Scenarios](https://arxiv.org/pdf/2204.13594.pdf)
-- [Self-supervised Graph Neural Networks for Multi-behavior Recommendation](Self-supervised Graph Neural Networks for Multi-behavior Recommendation)
+- [Self-supervised Graph Neural Networks for Multi-behavior Recommendation](http://www.shichuan.org/doc/134.pdf)
 - [Trading Hard Negatives and True Negatives: A Debiased Contrastive Collaborative Filtering Approach](https://arxiv.org/pdf/2204.11752.pdf)
 
 
