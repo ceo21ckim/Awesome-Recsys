@@ -24,6 +24,7 @@
   - [CIKM 2022](#CIKM-2022)
   - [WSDM 2022](#WSDM-2022)
   - [WWW 2022](#WWW-2022)
+  - [IJCAI 2022](#IJCAI-2022)
 
 
 # 2023
@@ -377,7 +378,21 @@
 - [Simgrace: A Simple Framework for graph contrastive learning without data augmentation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512156)
 
 
+## IJCAI 2022
 
+- [Towards Resolving Propensity Contradiction in Offline Recommender Learning](https://usaito.github.io/files/IJCAI2022_DAMF.pdf)
+- [MLP4Rec: A Pure MLP Architecture for Sequential Recommendations](https://arxiv.org/pdf/2204.11510.pdf)
+- [Discrete Listwise Personalized Ranking for Fast Top-N Recommendation with Implicit Feedback](https://www.ijcai.org/proceedings/2022/0300.pdf)
+- [HCFRec: Hash Collaborative Filtering via Normalized Flow with Structural Consensus for Efficient Recommendation](https://arxiv.org/pdf/2205.12042.pdf)
+- [Enhancing Sequential Recommendation with Graph Contrastive Learning](https://arxiv.org/pdf/2205.14837.pdf)
+- [RecipeRec: A Heterogeneous Graph Learning Model for Recipe Recommendation](https://arxiv.org/pdf/2205.14005.pdf)
+- [Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation](https://www.ijcai.org/proceedings/2022/0490.pdf)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 
 
