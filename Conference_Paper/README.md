@@ -387,13 +387,11 @@
 - [Enhancing Sequential Recommendation with Graph Contrastive Learning](https://arxiv.org/pdf/2205.14837.pdf)
 - [RecipeRec: A Heterogeneous Graph Learning Model for Recipe Recommendation](https://arxiv.org/pdf/2205.14005.pdf)
 - [Modeling Spatio-temporal Neighbourhood for Personalized Point-of-interest Recommendation](https://www.ijcai.org/proceedings/2022/0490.pdf)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
+- [Heterogeneous Interactive Snapshot Network for Review-Enhanced Stock Profiling and Recommendation](https://www.ijcai.org/proceedings/2022/0550.pdf)
+- [Next Point-of-Interest Recommendation with Inferring Multi-step Future Preferences](https://www.ijcai.org/proceedings/2022/0521.pdf)
+- [Poisoning Deep Learning Based Recommender Model in Federated Learning Scenarios](https://arxiv.org/pdf/2204.13594.pdf)
+- [Self-supervised Graph Neural Networks for Multi-behavior Recommendation](Self-supervised Graph Neural Networks for Multi-behavior Recommendation)
+- [Trading Hard Negatives and True Negatives: A Debiased Contrastive Collaborative Filtering Approach](https://arxiv.org/pdf/2204.11752.pdf)
 
 
 
