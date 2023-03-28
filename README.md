@@ -102,6 +102,7 @@ I share information related to the Recommender Systems that I am interested in. 
 * AIN: [An Attentive Interaction Network for Context-aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3269206.3271813) (CIKM'18)
 * ConvNCF: [Outer Product-based Neural Collaborative Filtering](https://arxiv.org/pdf/1808.03912.pdf) (IJCAI'18)
 * STAMP: [STAMP: shortterm attention/memory priority model for session-based recommendation](https://dl.acm.org/doi/pdf/10.1145/3219819.3219950) (KDD'18)
+* A$^3$CF: [An Adaptive Aspect Attention Model for Rating Prediction](https://www.ijcai.org/proceedings/2018/0521.pdf) (IJCAI'18)
 
 
 ### 2017
