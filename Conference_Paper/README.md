@@ -239,6 +239,7 @@
 - [Adversarial Gradient Driven Exploration for Deep Click-Through Rate Prediction](https://dl.acm.org/doi/pdf/10.1145/3534678.3539461)
 - [Self-Supervised Hypergraph Transformer for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3534678.3539473)
 - [PinnerFormer: Sequence Modeling for User Representation at Pinterest](https://arxiv.org/pdf/2205.04507.pdf)
+- [TwHIN: Embedding the Twitter Heterogeneous Information Network for Personalized Recommendation](https://arxiv.org/pdf/2202.05387.pdf)
 
 
 ## CIKM 2022
