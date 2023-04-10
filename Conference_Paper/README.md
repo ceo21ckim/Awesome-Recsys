@@ -98,6 +98,7 @@
 
 ## SIGIR 2022
 
+- [Mitigating the Filter Bubble While Maintaining Relevance: Targeted Diversification with VAE-based Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3477495.3531890)
 - [Decoupled Side Information Fusion for Sequential Recommendation](https://arxiv.org/pdf/2204.11046.pdf)
 - [Hierarchical Multi-Task Graph Recurrent Network for Next POI Recommendation](https://bhooi.github.io/papers/hmt_sigir22.pdf)
 - [Interpolative Distillation for Unifying Biased and Debiased Recommendation](https://web.archive.org/web/20220711205133id_/https://dl.acm.org/doi/pdf/10.1145/3477495.3532002)
