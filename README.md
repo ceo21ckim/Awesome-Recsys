@@ -13,7 +13,7 @@ I share information related to the Recommender Systems that I am interested in. 
 - 2023
   - [WSDM 2023](#WSDM-2023)
   - [ICLR 2023](#ICLR-2023)
-  - [AAAI 2023](#AAAI-2023)
+  - [AAAI 2023](#AAAI-2023) 
   - [WWW'23]: (#WWW-2023)
   - `RecSys'23`: September 17-22
   - `SIGIR'23`: July 23-27
