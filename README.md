@@ -1,7 +1,7 @@
 # Awesome Recsys
 I share information related to the Recommender Systems that I am interested in. They consist of `SIGIR`, `RecSys`, `ICLR`, `NeurIPS`, `ICML`, `AAAI`, `IJCAI`, `KDD`, `etc`.
 
-- modified: 2023-08-21
+- modified: 2023-08-25
 
 
 ## Conference Paper
