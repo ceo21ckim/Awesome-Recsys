@@ -429,129 +429,129 @@ I share information related to the Recommender Systems that I am interested in. 
 
 ## CIKM 2023
 
-- [Multitask Ranking System for Immersive Feed and No More Clicks: A Case Study of Short-Form Video Recommendation]()
-- [An Unified Search and Recommendation Foundation Model for Cold-Start Scenario]()
-- [Graph Exploration Matters: Improving both individual-level and system-level diversity in WeChat Feed Recommendation]()
-- [Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework]()
-- [3MN: Three Meta Networks for Multi-Scenario and Multi-Task Learning in Online Advertising Recommender Systems]()
-- [SHARK: A Lightweight Model Compression Approach for Large-scale Recommender Systems]()
-- [Popularity-aware Distributionally Robust Optimization for Recommendation System]()
-- [BOLT: An Automated Deep Learning Framework for Training and Deploying Large-Scale Search and Recommendation Models on Commodity CPU Hardware]()
-- [An Incremental Update Framework for Online Recommenders with Data-Driven Prior]()
-- [Dual Interests-Aligned Graph Auto-Encoders for Cross-domain Recommendation in WeChat]()
-- [RUEL: Retrieval-Augmented User Representation with Edge Browser Logs for Sequential Recommendation]()
-- [Multi-gate Mixture-of-Contrastive-Experts with Graph-based Gating Mechanism for TV Recommendation]()
-- [Learning and Optimization of Implicit Negative Feedback for Industrial Short-video Recommender System]()
-- [A Data-Driven Index Recommendation System for Slow Queries]()
-- [Towards Improving Accuracy and Computation Cost Optimization of Recommendation Systems]()
-- [Prod2Vec-Var: A Session Based Recommendation System with Enhanced Diversity]()
-- [Vigil: Effective end-to-end monitoring for large-scale recommender systems at Glance]()
-- [Timestamps as Prompts for Geography-Aware Location Recommendation]()
-- [Improving Long-Tail Item Recommendation with Graph Augmentation]()
-- [Contrastive Counterfactual Learning for Causality-aware Interpretable Recommender Systems]()
-- [Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training]()
-- [Text Matching Improves Sequential Recommendation by Reducing Popularity Biases]()
-- [KG4Ex: An Explainable Knowledge Graph-Based Approach for Exercise Recommendation]()
-- [CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning]()
-- [Dynamic Embedding Size Search with Minimum Regret for Streaming Recommender System]()
-- [Federated News Recommendation with Fine-grained Interpolation and Dynamic Clustering]()
-- [HyperBandit: Contextual Bandit with Hypernewtork for Time-Varying User Preferences in Streaming Recommendation]()
-- [Modeling Sequential Collaborative User Behaviors For Seller-Aware Next Basket Recommendation]()
-- [Sequential recommendation via an adaptive cross-domain knowledge decomposition]()
-- [DPGN: Denoising Periodic Graph Network for Life Service Recommendation]()
-- [Bi-channel Multiple Sparse Graph Attention Networks for Session-based Recommendation]()
-- [Towards Communication-Efficient Model Updating for On-Device Session-Based Recommendation]()
-- [Celebrity-aware Graph Contrastive Learning Framework for Social Recommendation]()
-- [Disentangled Interest importance aware Knowledge Graph Neural Network for Fund Recommendation]()
-- [Targeted Shilling Attacks on GNN-based Recommender Systems]()
-- [Decentralized Graph Neural Network for Privacy-Preserving Recommendation]()
-- [Multi-domain Recommendation with Embedding Disentangling and Domain Alignment]()
-- [Diffusion Augmentation for Sequential Recommendation]()
-- [Prompt Distillation for Efficient LLM-based Recommendation ]()
-- [Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems]()
-- [Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph]()
-- [iHAS: Instance-wise Hierarchical Architecture Search for Deep Learning Recommendation Models]()
-- [Causality-guided Graph Learning for Session-based Recommendation]()
-- [Dual-Process Graph Neural Network for Diversified Recommendation]()
-- [Modeling Preference as Weighted Distribution over Functions for User Cold-start Recommendation]()
-- [Single-User Injection for Invisible Shilling Attack against Recommender Systems]()
-- [Capturing Popularity Trends: A Simplistic Non-Personalized Approach for Enhanced Item Recommendation]()
-- [Batch-Mix Negative Sampling for Learning Recommendation Retrievers]()
-- [Post-hoc Selection of Pareto-Optimal Solutions in Search and Recommendation]()
-- [SMEF: Social-aware Multi-dimensional Edge Features-based Graph Representation Learning for Recommendation]()
-- [Robust Within-basket Recommendation via Noise-tolerated Contrastive Learning]()
-- [How Expressive are Graph Neural Networks in Recommendation?]()
-- [Meta-Learning with Adaptive Weighted Loss for Imbalanced Cold-Start Recommendation]()
-- [Multi-modal Mixture of Experts Represetation Learning for Sequential Recommendation]()
-- [Parallel Knowledge Enhancement based Framework for Multi-behavior Recommendation]()
-- [Learning the Co-evolution Process on Live Stream Platforms with Dual Self-attention for Next-topic Recommendations]()
-- [Graph Enhanced Hierarchical Reinforcement Learning for Goal-oriented Learning Path Recommendation]()
-- [Periodicity May Be Emanative: Hierarchical Contrastive Learning for Sequential Recommendation]()
-- [TPUF: Enhancing Cross-domain Sequential Recommendation via Transferring Pre-trained User Features]()
-- [Cracking the Code of Negative Transfer: A Cooperative Game Theoretic Approach for Cross-Domain Sequential Recommendation]()
-- [Self-supervised Contrastive Enhancement with Symmetric Few-shot Learning Towers for Cold-start News Recommendation]()
-- [Knowledge-Aware Cross-Semantic Alignment for Domain-Level Zero-Shot Recommendation]()
-- [Dual-Oriented Contrast for Recommendation with A Stop-Gradient Operation]()
-- [CDR: Conservative Doubly Robust Learning for Debiased Recommendation]()
-- [Enhancing Repeat-Aware Recommendation from a Temporal-Sequential Perspective]()
-- [Dual-view Contrastive Learning for Auction Recommendation]()
-- [Deep Task-specific Bottom Representation Network for Multi-Task Recommendation]()
-- [AdaMCT: Adaptive Mixture of CNN-Transformer for Sequential Recommendation]()
-- [Quad-Tier Entity Fusion Contrastive Representation Learning for Knowledge Aware Recommendation System]()
-- [Attention Calibration for Transformer-based Sequential Recommendation]()
-- [APGL4SR: A Generic Framework with Adaptive and Personalized Global Collaborative Information in Sequential Recommendation]()
-- [CLSPRec: Contrastive Learning of Long and Short-term Preferences for Next POI Recommendation]()
-- [HAMUR: Hyper Adapter for Multi-Domain Recommendation]()
-- [Scalable Neural Contextual Bandit for Recommender Systems]()
-- [Large Language Models as Zero-Shot Conversational Recommenders]()
+- [Multitask Ranking System for Immersive Feed and No More Clicks: A Case Study of Short-Form Video Recommendation](https://dl.acm.org/doi/pdf/10.1145/3544548.3580778)
+- [An Unified Search and Recommendation Foundation Model for Cold-Start Scenario](https://arxiv.org/pdf/2309.08939.pdf)
+- [Graph Exploration Matters: Improving both individual-level and system-level diversity in WeChat Feed Recommendation](https://arxiv.org/pdf/2306.00009.pdf)
+- [Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework](https://arxiv.org/pdf/2306.17426.pdf)
+- [3MN: Three Meta Networks for Multi-Scenario and Multi-Task Learning in Online Advertising Recommender Systems](https://arxiv.org/pdf/2112.02792.pdf)
+- [SHARK: A Lightweight Model Compression Approach for Large-scale Recommender Systems](SHARK: A Lightweight Model Compression Approach for Large-scale Recommender Systems)
+- [Popularity-aware Distributionally Robust Optimization for Recommendation System](https://dl.acm.org/doi/pdf/10.1145/3543507.3583223)
+- [BOLT: An Automated Deep Learning Framework for Training and Deploying Large-Scale Search and Recommendation Models on Commodity CPU Hardware](https://arxiv.org/pdf/2303.17727.pdf)
+- [An Incremental Update Framework for Online Recommenders with Data-Driven Prior]() `Yet`
+- [Dual Interests-Aligned Graph Auto-Encoders for Cross-domain Recommendation in WeChat]() `Yet`
+- [RUEL: Retrieval-Augmented User Representation with Edge Browser Logs for Sequential Recommendation](https://arxiv.org/pdf/2309.10469.pdf)
+- [Multi-gate Mixture-of-Contrastive-Experts with Graph-based Gating Mechanism for TV Recommendation]() `Yet`
+- [Learning and Optimization of Implicit Negative Feedback for Industrial Short-video Recommender System](https://arxiv.org/pdf/2308.13249.pdf)
+- [A Data-Driven Index Recommendation System for Slow Queries]() `Yet`
+- [Towards Improving Accuracy and Computation Cost Optimization of Recommendation Systems]() `Yet`
+- [Prod2Vec-Var: A Session Based Recommendation System with Enhanced Diversity]() `Yet`
+- [Vigil: Effective end-to-end monitoring for large-scale recommender systems at Glance]() `Yet`
+- [Timestamps as Prompts for Geography-Aware Location Recommendation](https://arxiv.org/pdf/2304.04151.pdf)
+- [Improving Long-Tail Item Recommendation with Graph Augmentation]() `Yet`
+- [Contrastive Counterfactual Learning for Causality-aware Interpretable Recommender Systems]() `Yet`
+- [Zero-shot Item-based Recommendation via Multi-task Product Knowledge Graph Pre-Training](https://arxiv.org/pdf/2305.07633.pdf)
+- [Text Matching Improves Sequential Recommendation by Reducing Popularity Biases]() `Yet`
+- [KG4Ex: An Explainable Knowledge Graph-Based Approach for Exercise Recommendation]() `Yet`
+- [CPMR: Context-Aware Incremental Sequential Recommendation with Pseudo-Multi-Task Learning](https://arxiv.org/pdf/2309.04802.pdf)
+- [Dynamic Embedding Size Search with Minimum Regret for Streaming Recommender System]() `Yet`
+- [Federated News Recommendation with Fine-grained Interpolation and Dynamic Clustering]() `Yet`
+- [HyperBandit: Contextual Bandit with Hypernewtork for Time-Varying User Preferences in Streaming Recommendation](https://arxiv.org/pdf/2308.08497.pdf)
+- [Modeling Sequential Collaborative User Behaviors For Seller-Aware Next Basket Recommendation]() `Yet`
+- [Sequential recommendation via an adaptive cross-domain knowledge decomposition]() `Yet`
+- [DPGN: Denoising Periodic Graph Network for Life Service Recommendation]() `Yet`
+- [Bi-channel Multiple Sparse Graph Attention Networks for Session-based Recommendation]() `Yet`
+- [Towards Communication-Efficient Model Updating for On-Device Session-Based Recommendation](https://arxiv.org/pdf/2308.12777.pdf)
+- [Celebrity-aware Graph Contrastive Learning Framework for Social Recommendation]() `Yet`
+- [Disentangled Interest importance aware Knowledge Graph Neural Network for Fund Recommendation]() `Yet`
+- [Targeted Shilling Attacks on GNN-based Recommender Systems]() `Yet`
+- [Decentralized Graph Neural Network for Privacy-Preserving Recommendation](https://arxiv.org/pdf/2308.08072.pdf)
+- [Multi-domain Recommendation with Embedding Disentangling and Domain Alignment](https://arxiv.org/pdf/2308.05508.pdf)
+- [Diffusion Augmentation for Sequential Recommendation]() `Yet`
+- [Prompt Distillation for Efficient LLM-based Recommendation](https://lileipisces.github.io/files/CIKM23-POD-paper.pdf)
+- [Adaptive Multi-Modalities Fusion in Sequential Recommendation Systems](https://arxiv.org/pdf/2308.15980.pdf)
+- [Self-Supervised Dynamic Hypergraph Recommendation based on Hyper-Relational Knowledge Graph](https://arxiv.org/pdf/2308.07752.pdf)
+- [iHAS: Instance-wise Hierarchical Architecture Search for Deep Learning Recommendation Models](https://arxiv.org/pdf/2309.07967.pdf)
+- [Causality-guided Graph Learning for Session-based Recommendation]() `Yet`
+- [Dual-Process Graph Neural Network for Diversified Recommendation]() `Yet`
+- [Modeling Preference as Weighted Distribution over Functions for User Cold-start Recommendation]() `Yet`
+- [Single-User Injection for Invisible Shilling Attack against Recommender Systems](https://arxiv.org/pdf/2308.10467.pdf)
+- [Capturing Popularity Trends: A Simplistic Non-Personalized Approach for Enhanced Item Recommendation](https://arxiv.org/pdf/2308.08799.pdf)
+- [Batch-Mix Negative Sampling for Learning Recommendation Retrievers](https://zheng-kai.com/paper/cikm_2023_fan.pdf)
+- [Post-hoc Selection of Pareto-Optimal Solutions in Search and Recommendation](https://arxiv.org/pdf/2306.12165.pdf)
+- [SMEF: Social-aware Multi-dimensional Edge Features-based Graph Representation Learning for Recommendation]() `Yet`
+- [Robust Basket Recommendation via Noise-tolerated Graph Contrastive Learning](https://weitianxin.github.io/files/CIKM23.pdf)
+- [How Expressive are Graph Neural Networks in Recommendation?]() `Yet`
+- [Meta-Learning with Adaptive Weighted Loss for Imbalanced Cold-Start Recommendation](https://arxiv.org/pdf/2302.14640.pdf)
+- [Multi-modal Mixture of Experts Represetation Learning for Sequential Recommendation]() `Yet`
+- [Parallel Knowledge Enhancement based Framework for Multi-behavior Recommendation](https://arxiv.org/pdf/2308.04807.pdf)
+- [Learning the Co-evolution Process on Live Stream Platforms with Dual Self-attention for Next-topic Recommendations]() `Yet`
+- [Graph Enhanced Hierarchical Reinforcement Learning for Goal-oriented Learning Path Recommendation]() `Yet`
+- [Periodicity May Be Emanative: Hierarchical Contrastive Learning for Sequential Recommendation]() `Yet`
+- [TPUF: Enhancing Cross-domain Sequential Recommendation via Transferring Pre-trained User Features]() `Yet`
+- [Cracking the Code of Negative Transfer: A Cooperative Game Theoretic Approach for Cross-Domain Sequential Recommendation]() `Yet`
+- [Self-supervised Contrastive Enhancement with Symmetric Few-shot Learning Towers for Cold-start News Recommendation]() `Yet`
+- [Knowledge-Aware Cross-Semantic Alignment for Domain-Level Zero-Shot Recommendation]() `Yet`
+- [Dual-Oriented Contrast for Recommendation with A Stop-Gradient Operation]() `Yet`
+- [CDR: Conservative Doubly Robust Learning for Debiased Recommendation](https://arxiv.org/pdf/2308.08461.pdf)
+- [Enhancing Repeat-Aware Recommendation from a Temporal-Sequential Perspective]() `Yet`
+- [Dual-view Contrastive Learning for Auction Recommendation]() `Yet`
+- [Deep Task-specific Bottom Representation Network for Multi-Task Recommendation](https://arxiv.org/pdf/2308.05996.pdf)
+- [AdaMCT: Adaptive Mixture of CNN-Transformer for Sequential Recommendation]() `Yet`
+- [Quad-Tier Entity Fusion Contrastive Representation Learning for Knowledge Aware Recommendation System]() `Yet`
+- [Attention Calibration for Transformer-based Sequential Recommendation]() `Yet`
+- [APGL4SR: A Generic Framework with Adaptive and Personalized Global Collaborative Information in Sequential Recommendation]() `Yet`
+- [CLSPRec: Contrastive Learning of Long and Short-term Preferences for Next POI Recommendation]() `Yet`
+- [HAMUR: Hyper Adapter for Multi-Domain Recommendation](https://arxiv.org/pdf/2309.06217.pdf)
+- [Scalable Neural Contextual Bandit for Recommender Systems](https://arxiv.org/pdf/2306.14834.pdf)
+- [Large Language Models as Zero-Shot Conversational Recommenders](https://arxiv.org/pdf/2308.10053.pdf)
 - [Task-Difficulty-Aware Meta-Learning with Adaptive Update Strategies for User Cold-Start Recommendation]()
-- [AutoSeqRec: Autoencoder for Efficient Sequential Recommendation]()
-- [Diversity-aware Deep Ranking Network for Recommendation]()
-- [Multimodal Optimal Transport Knowledge Distillation for Cross-domain Recommendation]()
-- [A two-tier shared embedding method for review-based recommender systems]()
-- [MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement]()
-- [KuaiSAR: A Unified Search And Recommendation Dataset]()
-- [Multi-Granularity Attention Model for Group Recommendation]()
-- [Counterfactual Adversarial Learning for Recommendation]()
-- [Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in Recommender Systems]()
-- [RecRec: Algorithmic Recourse for Recommender Systems]()
-- [Graph-based Alignment and Uniformity for Recommendation]()
-- [STGIN: Spatial-Temporal Graph Interaction Network for large-scale POI recommendation]()
-- [A Flash Attention Transformer for Multi-Behaviour Recommendation]()
-- [G-Meta: Distributed Meta Learning in GPU Clusters for Large-Scale Recommender System]()
-- [DPAN: Dynamic Preference-based and Attribute-aware Network for Relevant Recommendations]()
-- [MI-DPG: Decomposable Parameter Generation Network Based on Mutual Information for Multi-Scenario Recommendation]()
-- [Efficient Multi-Task Learning via Generalist Recommender]()
-- [BI-GCN: Bilateral Interactive Graph Convolutional Network for Recommendation]()
-- [MvFS: Multi-view Feature Selection for Recommender System]()
-- [SeqGen: A Sequence Generator via User Side Information for Behavior Sparsity in Recommendation]()
-- [Attribute-enhanced Dual Channel Representation Learning for Session-based Recommendation]()
-- [Incorporating Co-purchase Correlation for Next-basket Recommendation]()
-- [MTKDN: Multi-Task Knowledge Disentanglement Network for Recommendation]()
-- [TCCM: Time and Content-aware Causal Model for Unbiased News Recommendation]()
-- [Personalized Interest Sustainability Modeling for Sequential POI Recommendation]()
-- [Boosting Meta-learning Cold-start Recommendation with Graph Neural Network]()
-- [Modeling Sequential Collaborative User Behaviors For Seller-Aware Next Basket Recommendation]()
-- [PopDCL: Popularity-aware Debiased Contrastive Loss for Collaborative Filtering]()
-- [Retrieving GNN Architecture for Collaborative Filtering]()
-- [Toward a Better Understanding of Loss Functions for Collaborative Filtering]()
-- [Dimension Independent Mixup for Hard Negative Sample in Collaborative Filtering]()
-- [Geometry Interaction Augmented Graph Collaborative Filtering]()
+- [AutoSeqRec: Autoencoder for Efficient Sequential Recommendation](https://arxiv.org/pdf/2308.06878.pdf)
+- [Diversity-aware Deep Ranking Network for Recommendation]() `Yet`
+- [Multimodal Optimal Transport Knowledge Distillation for Cross-domain Recommendation]() `Yet`
+- [A two-tier shared embedding method for review-based recommender systems]() `Yet`
+- [MUSE: Music Recommender System with Shuffle Play Recommendation Enhancement](https://arxiv.org/pdf/2308.09649.pdf)
+- [KuaiSAR: A Unified Search And Recommendation Dataset](https://arxiv.org/pdf/2306.07705.pdf)
+- [Multi-Granularity Attention Model for Group Recommendation](https://arxiv.org/pdf/2308.04017.pdf)
+- [Counterfactual Adversarial Learning for Recommendation]() `Yet`
+- [Counterfactual Graph Augmentation for Consumer Unfairness Mitigation in Recommender Systems](https://arxiv.org/pdf/2308.12083.pdf)
+- [RecRec: Algorithmic Recourse for Recommender Systems](https://arxiv.org/pdf/2308.14916.pdf)
+- [Graph-based Alignment and Uniformity for Recommendation]() `Yet`
+- [STGIN: Spatial-Temporal Graph Interaction Network for large-scale POI recommendation](https://arxiv.org/pdf/2309.02251.pdf)
+- [A Flash Attention Transformer for Multi-Behaviour Recommendation]() `Yet`
+- [G-Meta: Distributed Meta Learning in GPU Clusters for Large-Scale Recommender System]() `Yet`
+- [DPAN: Dynamic Preference-based and Attribute-aware Network for Relevant Recommendations](https://arxiv.org/pdf/2308.10527.pdf)
+- [MI-DPG: Decomposable Parameter Generation Network Based on Mutual Information for Multi-Scenario Recommendation]() `Yet`
+- [Efficient Multi-Task Learning via Generalist Recommender]() `Yet`
+- [BI-GCN: Bilateral Interactive Graph Convolutional Network for Recommendation]() `Yet`
+- [MvFS: Multi-view Feature Selection for Recommender System](https://arxiv.org/pdf/2309.02064.pdf)
+- [SeqGen: A Sequence Generator via User Side Information for Behavior Sparsity in Recommendation]() `Yet`
+- [Attribute-enhanced Dual Channel Representation Learning for Session-based Recommendation]() `Yet`
+- [Incorporating Co-purchase Correlation for Next-basket Recommendation]() `Yet`
+- [MTKDN: Multi-Task Knowledge Disentanglement Network for Recommendation]() `Yet`
+- [TCCM: Time and Content-aware Causal Model for Unbiased News Recommendation]() `Yet`
+- [Personalized Interest Sustainability Modeling for Sequential POI Recommendation]() `Yet`
+- [Boosting Meta-learning Cold-start Recommendation with Graph Neural Network]() `Yet`
+- [Modeling Sequential Collaborative User Behaviors For Seller-Aware Next Basket Recommendation]() `Yet`
+- [PopDCL: Popularity-aware Debiased Contrastive Loss for Collaborative Filtering]() `Yet`
+- [Retrieving GNN Architecture for Collaborative Filtering](http://www.shichuan.org/doc/155.pdf)
+- [Toward a Better Understanding of Loss Functions for Collaborative Filtering]() `Yet`
+- [Dimension Independent Mixup for Hard Negative Sample in Collaborative Filtering](https://arxiv.org/pdf/2306.15905.pdf)
+- [Geometry Interaction Augmented Graph Collaborative Filtering]() `Yet`
 
 
 ## IJCAI 2023
 
-- [Self-supervised Graph Disentangled Networks for Review-based Recommendation]()
-- [Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning]()
-- [Sequential Recommendation with Probabilistic Logical Reasoning]()
-- [Federated Probabilistic Preference Distribution Modelling with Compactness Co-Clustering for Privacy-Preserving Multi-Domain Recommendation]()
-- [Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation]()
-- [Probabilistic Masked Attention Networks for Explainable Sequential Recommendation]()
-- [Dual Personalization on Federated Recommendation]()
-- [Curriculum Multi-Level Learning for Imbalanced Live-Stream Recommendation]()
-- [Discriminative-Invariant Representation Learning for Unbiased Recommendation]()
-- [Denoised Self-Augmented Learning for Social Recommendation]()
-- [Intent-aware Recommendation via Disentangled Graph Contrastive Learning]()
+- [Self-supervised Graph Disentangled Networks for Review-based Recommendation]() `Yet`
+- [Towards Hierarchical Policy Learning for Conversational Recommendation with Hypergraph-based Reinforcement Learning](https://arxiv.org/pdf/2305.02575.pdf)
+- [Sequential Recommendation with Probabilistic Logical Reasoning]() `Yet`
+- [Federated Probabilistic Preference Distribution Modelling with Compactness Co-Clustering for Privacy-Preserving Multi-Domain Recommendation](https://www.ijcai.org/proceedings/2023/0245.pdf)
+- [Basket Representation Learning by Hypergraph Convolution on Repeated Items for Next-basket Recommendation](https://www.ijcai.org/proceedings/2023/0268.pdf)
+- [Probabilistic Masked Attention Networks for Explainable Sequential Recommendation]() `Yet`
+- [Dual Personalization on Federated Recommendation](https://arxiv.org/pdf/2301.08143.pdf)
+- [Curriculum Multi-Level Learning for Imbalanced Live-Stream Recommendation]() `Yet`
+- [Discriminative-Invariant Representation Learning for Unbiased Recommendation](https://jiawei-chen.github.io/paper/DIRL.pdf)
+- [Denoised Self-Augmented Learning for Social Recommendation](https://arxiv.org/pdf/2305.12685.pdf)
+- [Intent-aware Recommendation via Disentangled Graph Contrastive Learning](https://www.ijcai.org/proceedings/2023/0260.pdf)
 
 
 ## ICML 2023
