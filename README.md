@@ -429,7 +429,7 @@ I share information related to the Recommender Systems that I am interested in. 
 
 ## CIKM 2023
 
-- [Multitask Ranking System for Immersive Feed and No More Clicks: A Case Study of Short-Form Video Recommendation](https://dl.acm.org/doi/pdf/10.1145/3544548.3580778)
+- [Multitask Ranking System for Immersive Feed and No More Clicks: A Case Study of Short-Form Video Recommendation]() `Yet`
 - [An Unified Search and Recommendation Foundation Model for Cold-Start Scenario](https://arxiv.org/pdf/2309.08939.pdf)
 - [Graph Exploration Matters: Improving both individual-level and system-level diversity in WeChat Feed Recommendation](https://arxiv.org/pdf/2306.00009.pdf)
 - [Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework](https://arxiv.org/pdf/2306.17426.pdf)
