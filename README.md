@@ -335,6 +335,7 @@ I share information related to the Recommender Systems that I am interested in. 
 - [Alleviating Matthew Effect of Offline Reinforcement Learning in Interactive Recommendation](https://arxiv.org/pdf/2307.04571.pdf)
 - [Beyond the Overlapping Users: Cross-Domain Recommendation via Adaptive Anchor Link Learning](https://dl.acm.org/doi/pdf/10.1145/3539618.3591642)
 - [Beyond Two-Tower Matching: Learning Sparse Retrievable Cross-Interactions for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3539618.3591643)
+- [Blurring-Sharpening Process Models for Collaborative Filtering](https://arxiv.org/pdf/2211.09324.pdf)
 - [Candidate–aware Graph Contrastive Learning for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3539618.3591647)
 - [Causal Decision Transformer for Recommender Systems via Offline Reinforcement Learning](https://arxiv.org/pdf/2304.07920.pdf)
 - [Continuous Input Embedding Size Search For Recommender Systems](https://arxiv.org/pdf/2304.03501.pdf)
