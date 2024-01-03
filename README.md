@@ -435,7 +435,7 @@ I share information related to the Recommender Systems that I am interested in. 
 - [An Unified Search and Recommendation Foundation Model for Cold-Start Scenario](https://arxiv.org/pdf/2309.08939.pdf)
 - [Graph Exploration Matters: Improving both individual-level and system-level diversity in WeChat Feed Recommendation](https://arxiv.org/pdf/2306.00009.pdf)
 - [Leveraging Watch-time Feedback for Short-Video Recommendations: A Causal Labeling Framework](https://arxiv.org/pdf/2306.17426.pdf)
-- [3MN: Three Meta Networks for Multi-Scenario and Multi-Task Learning in Online Advertising Recommender Systems](https://arxiv.org/pdf/2112.02792.pdf)
+- [3MN: Three Meta Networks for Multi-Scenario and Multi-Task Learning in Online Advertising Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3583780.3614651)
 - [SHARK: A Lightweight Model Compression Approach for Large-scale Recommender Systems](https://arxiv.org/pdf/2308.09395.pdf)
 - [Popularity-aware Distributionally Robust Optimization for Recommendation System](https://dl.acm.org/doi/pdf/10.1145/3543507.3583223)
 - [BOLT: An Automated Deep Learning Framework for Training and Deploying Large-Scale Search and Recommendation Models on Commodity CPU Hardware](https://arxiv.org/pdf/2303.17727.pdf)
