@@ -22,7 +22,7 @@ I share information related to the Recommender Systems that I am interested in. 
   - [CIKM 2023](#CIKM-2023)
   - [IJCAI 2023](#IJCAI-2023)
   - [ICML 2023](#ICML-2023)
-  - `NeurIPS'23`: `Dec.10`
+  - [NeurIPS'23](#NeurIPS-2023)
 
 - 2022
   - [SIGIR 2022](#SIGIR-2022)
@@ -562,6 +562,29 @@ I share information related to the Recommender Systems that I am interested in. 
 - [Propensity Matters: Measuring and Enhancing Balancing for Recommendation](https://proceedings.mlr.press/v202/li23ah/li23ah.pdf)
 - [Performative Recommendation: Diversifying Content via Strategic Incentives](https://proceedings.mlr.press/v202/eilat23a/eilat23a.pdf)
 - [Curriculum Co-disentangled Representation Learning across Multiple Environments for Social Recommendation](https://proceedings.mlr.press/v202/wang23z/wang23z.pdf)
+
+
+## NeurIPS 2023
+
+
+- [Mitigating the Popularity Bias of Graph Collaborative Filtering: A Dimensional Collapse Perspective](https://openreview.net/attachment?id=MvCq52yt9Y&name=pdf)
+- [Blocked Collaborative Bandits: Online Collaborative Filtering with Per-Item Budget Constraints](https://openreview.net/attachment?id=Ntd6X7uWYF&name=pdf)
+- [Empowering Collaborative Filtering with Principled Adversarial Contrastive Loss](https://openreview.net/attachment?id=bNNIf8F9OU&name=pdf)
+- [Recommender Systems with Generative Retrieval](https://openreview.net/attachment?id=BJ0fQUU32w&name=pdf)
+- [Lending Interaction Wings to Recommender Systems with Conversational Agents](https://openreview.net/attachment?id=x7q7w07r6Y&name=pdf)
+- [Supply-Side Equilibria in Recommender Systems](https://openreview.net/attachment?id=eqyhjLG5Nr&name=pdf)
+- [Fairly Recommending with Social Attributes: A Flexible and Controllable Optimization Approach](https://openreview.net/attachment?id=NP5xb00Y6a&name=pdf)
+- [Rethinking Incentives in Recommender Systems: Are Monotone Rewards Always Beneficial?](https://openreview.net/attachment?id=xUyBP16Q5J&name=pdf)
+- [Theoretically Guaranteed Bidirectional Data Rectification for Robust Sequential Recommendation](https://openreview.net/attachment?id=mHsxsrLl0y&name=pdf)
+- [Multi-Objective Intrinsic Reward Learning for Conversational Recommender Systems](https://openreview.net/attachment?id=qYAp31KwU2&name=pdf)
+- [UltraRE: Enhancing RecEraser for Recommendation Unlearning via Error Decomposition](https://openreview.net/attachment?id=93NLxUojvc&name=pdf)
+- [Removing Hidden Confounding in Recommendation: A Unified Multi-Task Learning Approach](https://openreview.net/attachment?id=4IWJZjbRFj&name=pdf)
+- [Generate What You Prefer: Reshaping Sequential Recommendation via Guided Diffusion](https://openreview.net/attachment?id=oFpBnt6bgC&name=pdf)
+- [REFINE: A Fine-Grained Medication Recommendation System Using Deep Learning and Personalized Drug Interaction Modeling](https://openreview.net/attachment?id=GsCTjmYe5v&name=pdf)
+- [On the Relationship Between Relevance and Conflict in Online Social Link Recommendations](https://openreview.net/attachment?id=CrpL8mGa0Q&name=pdf)
+- [Enhancing User Intent Capture in Session-Based Recommendation with Attribute Patterns](https://openreview.net/attachment?id=AV3iZlDrzF&name=pdf)
+- [Cascading Bandits: Optimizing Recommendation Frequency in Delayed Feedback Environments](https://openreview.net/attachment?id=LClyG4vZmS&name=pdf)
+  
 
 
 # 2022
