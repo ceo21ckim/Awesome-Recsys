@@ -1,7 +1,7 @@
 # Awesome Recsys
 I share information related to the Recommender Systems that I am interested in. They consist of `SIGIR`, `RecSys`, `ICLR`, `NeurIPS`, `ICML`, `AAAI`, `IJCAI`, `KDD`, `etc`.
 
-- modified: 2024-01-13
+- modified: 2025-09-08
 
 
 
@@ -10,6 +10,11 @@ I share information related to the Recommender Systems that I am interested in. 
 `SIGIR`, `Recsys`, `WSDM`, `KDD`, `etc`. 
 
 `None` means unavailable URL or papers that have not been published yet.
+
+- 2025
+  - [Recsys 2024](#Recsys-2025)
+  - [SIGIR 2025](#SIGIR-2025)
+
 
 - 2023
   - [WSDM 2023](#WSDM-2023)
@@ -33,6 +38,139 @@ I share information related to the Recommender Systems that I am interested in. 
   - [WWW 2022](#WWW-2022)
   - [IJCAI 2022](#IJCAI-2022)
   - [ICML 2022](#ICML-2022)
+
+
+# 2025
+
+## Recsys 2025
+
+- []
+
+
+## SIGIR 2025
+
+- [Beyond Whole Dialogue Modeling: Contextual Disentanglement for Conversational Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729903)
+- [Agentic Feedback Loop Modeling Improves Recommendation and User Simulation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729893?casa_token=w6eW3jbDgakAAAAA:Uwcu0mfYL5vYbIEdGYh97lkB8aCmCIDwsrte9ZLzsGZ2YzB_0pYPQxa6PubYbHhBXp01rjhKo18Wgdg)
+- [Unleashing the Potential of Diffusion Models Towards Diversified Sequential Recommendations](https://dl.acm.org/doi/pdf/10.1145/3726302.3730109)
+- [Pre-training for Unlearning: A Model-agnostic Paradigm for Recommendation Unlearning](https://dl.acm.org/doi/pdf/10.1145/3726302.3730060?casa_token=QWuR9VZ-CikAAAAA:W5CD6LvTK5tUv7DPfAiskEcxYw7W2evIAsI-r0YhfkM4aHt9vdXRJcN_jNpr54BohJJUAfwqllILxUA)
+- [Hierarchical Intent-guided Optimization with Pluggable LLM-Driven Semantics for Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729994?casa_token=RbxQns48X_MAAAAA:3QLWSx2htdU-Q98EQ0T2-5TE__M6slYv73XHn1_CO2kZJ5bue0SzJP8yF1Zudqnj7Schf_Zwhc56g0c)
+- [VoRec: Enhancing Recommendation with Voronoi Diagram in Hyperbolic Space](https://dl.acm.org/doi/pdf/10.1145/3726302.3730114?casa_token=HK_8q8-eNmMAAAAA:PNPgCZPZZ7FjWBfXZwXVhtZXNE5exIvxaadYm3DgpmMky2jfJ2xEqL_UgT8IAFWqWM2U1HcfqOnYMWQ)
+- [Collaborative Signal-guided Diffusion Models for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729929?casa_token=ssfI1QsklxEAAAAA:Kow-bXDB5Ni_k4TYtr7tlJfq6734oPQAYhroxmxcL7oLhRU8d3sqs4_uXI0jn2J_FREaHCpc6WOUm58)
+- [CORONA: A Coarse-to-Fine Framework for Graph-based Recommendation with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3726302.3729937?casa_token=tX6F1MaTmCgAAAAA:k35i7brdd7qdnigB1LHFRdNe2fyit7kur7ib0Hkht7QbkXh8ZbYTR7F4zrzksolcnMhwLBsubUMHL5U)
+- [NR4DER: Neural Re-ranking for Diversified Exercise Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730046?casa_token=N7oJRw3FFaoAAAAA:aEtTaWDyvxEP1Ep2A_bJPMsqdsEn65yyQdpfEsKdURDPFTlMO69iO2SICemBMfjViANWWITHXi6t1SI)
+- [Large Language Models Enhanced Hyperbolic Space Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3726302.3730019?casa_token=wPcxOC8uQRYAAAAA:J3duUBxvGCZjmhFDeIIkAWUWrGj7JZvQp7dSEZ3AbuesDRp_RrZQ_LcTrak-alQ_K1HyVZu9-_SLUpM)
+- [Linear Item-Item Models with Neural Knowledge for Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730024)
+- [Multi-Modal Multi-Behavior Sequential Recommendation with Conditional Diffusion-Based Feature Denoising](https://dl.acm.org/doi/pdf/10.1145/3726302.3730044?casa_token=aCHqSkAsyIcAAAAA:GbPZjVVNetlxxMHE0wnN5hY6romrCBc01Rv5INGnKtUTHwkGEvpSrGqqzkaajlwBWxdJljViHaws4G8)
+- [Comprehending Knowledge Graphs with Large Language Models for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3726302.3729932?casa_token=5O9VxbqpB60AAAAA:fSNXQTYImbtncBOmlLNwcZxWRKTB5eS9wSL0VAIqzMhoyzeDBTOho_eylPHrSAcKoHlUY-z4unJa63w)
+- [Data Augmentation as Free Lunch: Exploring the Test-Time Augmentation for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729943?casa_token=DEVqKwjVVzEAAAAA:oMeVAzWNcMGLF0c7uTq8RVMV1Oo8Ytwlw_1pqAbs4hYKr_UvHKjXo5WbnVi4PQVXGwwIK-739NbfXU0)
+- [MGIPF: Multi-Granularity Interest Prediction Framework for Personalized Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730033?casa_token=wyAC5R1oN5YAAAAA:JXGPvc8UO2Sl9H0rDDN6MfGb3hSvhQFN-BThQdEvOl1O5-1Jwam0M_UVGd7m1xEwd7lQ8YTt7xojO80)
+- [Process-Supervised LLM Recommenders via Flow-guided Tuning](https://dl.acm.org/doi/pdf/10.1145/3726302.3729981)
+- [Enhancing New-item Fairness in Dynamic Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3726302.3729969?casa_token=YhhkWv_eeqQAAAAA:uNlj2LS_84npehDXz_rV-Fly80YuH2oQIAtQXHMPm5vByapIXNt7pkefCOQ4YUVVqMhww7fTguHyIws)
+- [Hyperbolic Multi-Criteria Rating Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730000?casa_token=YQoINYo7Rm8AAAAA:oYaOwWS1Sxxiy3O5wldnjHQI7ZebHKkSoqr9zRVvGHm2UfcdMfavo5fU9OxMyMt9JADkm4v3uM84X4M)
+- [X-Cross: Dynamic Integration of Language Models for Cross-Domain Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730117?casa_token=z-GpTkEHEBwAAAAA:7v5jV3liAck_kUqvD0IKpDZKXkWBicCnSXLwNc5alcgmUSE-K2HkXkdEpUhjRHTpj0cQhI8TK0ASpjA)
+- [FedCIA: Federated Collaborative Information Aggregation for Privacy-Preserving Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729977?casa_token=KULBQAuBflIAAAAA:e_Nstoawi2Owm-pXrTcr8QVsAq_8y2M7Db5t3rVHoqiSPzVj3-4SQJBHXkwjXsSNbUY5kPiGkrrBrg0)
+- [Short Video Segment-level User Dynamic Interests Modeling in Personalized Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730083)
+- [AlphaFuse: Learn ID Embeddings for Sequential Recommendation in Null Space of Language Embeddings](https://dl.acm.org/doi/pdf/10.1145/3726302.3729894?casa_token=bFtlQP9kggYAAAAA:MNPbn8cdoqyK1MwTmWIY7Ef80ehiZpNt8JE2RZ3uV_6giDZDa5xrcMrRt8qdh9S6eBr6OnP4UgiJ6FQ)
+- [LLM-Generated Fake News Induces Truth Decay in News Ecosystem: A Case Study on Neural News Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730027)
+- [MELON: Learning Multi-Aspect Modality Preferences for Accurate Multimedia Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730031)
+- [Disentangling and Generating Modalities for Recommendation in Missing Modality Scenarios](https://dl.acm.org/doi/pdf/10.1145/3726302.3729953)
+- [DIFF: Dual Side-Information Filtering and Fusion for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729948)
+- [Graph Spectral Filtering with Chebyshev Interpolation for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729991)
+- [Review-driven Personalized Preference Reasoning with Large
+Language Models for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730055)
+- [DAR: Dimension-Adaptive Recommendation with Multi-Granular Noise Control](https://dl.acm.org/doi/pdf/10.1145/3726302.3729941)
+- [Hypercomplex Knowledge Graph-Aware Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730001?casa_token=w8pv4iPzG9gAAAAA:Wm71U-mriCmPgNUDTm5-cRGCFuvcTh8gOx4EVpRcgMwJaeL2cFvXG0EkaE_DfvoWFiZTExSrBWOE-1I)
+- [Denoising Multi-Interest-Aware Logical Reasoning for Long-Sequence Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729944?casa_token=V4yx4a4i_1UAAAAA:pPsrVRpSc4DGeSr-86Up3P_NZJjHotzcf0wKh-TKiBptAOOiAEntUZ_21Nxp5CSQe08NLW2KmBbHWOQ)
+- [Can LLMs Enhance Fairness in Recommendation Systems? A Data Augmentation Approach](https://dl.acm.org/doi/pdf/10.1145/3726302.3729917?casa_token=P9V4rPcllqkAAAAA:Piv4srjp3n--3Mxss8HmPDl_DirejvGhslPIp1uj8GyaY_FjczSUFko2-g-FM5Rh84R1v1KgPfUZSvg)
+- [CD-CDR: Conditional Diffusion-based Item Generation for Cross-Domain Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729918)
+- [Multi-Grained Patch Training for Efficient LLM-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730042?casa_token=UrCDoJq-K-0AAAAA:bYNmFxU6zx-jgL4o7Xp7OeAdKWFxq_lkyiUH_CM13FhoswKFPbieTBDc9TT1ePUm8Ne1yUQSHIhWEZ8)
+- [Mitigating Distribution Shifts in Sequential Recommendation: An Invariance Perspective](https://dl.acm.org/doi/pdf/10.1145/3726302.3730036?casa_token=3Wd-cSx8X_oAAAAA:YhZhWfeCXC4a_OLFFwtj5F8GhIMPwwE0W3CnwwllZ-Zhh7jV4F-2oQjuzyWR_B3h1RPijObTTwGpbBQ)
+- [Towards Interest Drift-driven User Representation Learning in Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730099?casa_token=gk9rmFA2YbMAAAAA:BtU1fUTpoRmp0ue5MlKOcG1esBXXwUUSRgxPnYHA44En2Vs91__nR5ziF6XOKFQ0E-7-oTTkt5-3PCk)
+- [Order-agnostic Identifier for Large Language Model-based Generative Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730053)
+- [CSRec: Rethinking Sequential Recommendation from A Causal Perspective](https://dl.acm.org/doi/pdf/10.1145/3726302.3729940)
+- [Generative Recommender with End-to-End Learnable Item Tokenization](https://dl.acm.org/doi/pdf/10.1145/3726302.3729989?casa_token=A9gli96itEAAAAAA:tV6FyxJvgahZCZsGF6Lj4D9lfYoEiwfB7bcyLfI_iR54XxY08KSZxhtysRrwX9YNCh-hLKdMjG3LyxI)
+- [Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729911?casa_token=mXw34AjjPSMAAAAA:hiIGpgdr3fyqVTuYY-T-erQIyXguiASpXxM4KITTLfeM5EovN1hMudkyFe8nqvAR5AW2AHJMtx45_2A)
+- [CDC: Causal Domain Clustering for Multi-Domain Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729919?casa_token=42VhLZtyZS4AAAAA:RzzYYQI3KSFyLml6KHeSfzzibY0xnoFA4WqeC2ETTgSW2T2m45wqno4R9wz3xhhpt43_d7X_qOsQxiI)
+- [Bridging Interests and Truth: Towards Mitigating Fake News with Personalized and Truthful Recommendations](https://dl.acm.org/doi/pdf/10.1145/3726302.3729912?casa_token=oaXOQRL-1oQAAAAA:QbN021KcerX7uZa38vnamyf81nGldOpHZ_LtHeOSybLeRowlFKKnFjzDLsD7u1wWmXhz2O6wFZJJ4fc)
+- [Generating Difficulty-aware Negative Samples via Conditional Diffusion for Multi-modal Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729986?casa_token=YN-hJbksEgYAAAAA:A9Xo0UomyvzRNGZ1rGd1zfxw8RTT0FANZWSXKBa83ys28DvqoJZpgPx0aVlOuOHU9x3xoGgyCUgYG34)
+- [Addressing Missing Data Issue for Diffusion-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729890?casa_token=Mdo6_tGD7McAAAAA:ni2dEr82IBpE7TCUmp4N0FmwrXYpZ9znYkULOFKkk7k3N4uK9I_8W2PccgNKZ5ujd-_ZwACy52dB3XQ)
+- [Why is Normalization Necessary for Linear Recommenders?](https://dl.acm.org/doi/pdf/10.1145/3726302.3730116)
+- [Efficient Recommendation with Millions of Items by Dynamic Pruning of Sub-Item Embeddings](https://dl.acm.org/doi/pdf/10.1145/3726302.3729963)
+- [Intent-aware Diffusion with Contrastive Learning for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730010?casa_token=CbEI64R1aNMAAAAA:_HNmAtdS5qc850g74afkTJXDvAZXHnZgL94Nku8nGCckQlN_FO75EhFPmi8SasapuvQv0GM4ULLyHVk)
+- [Bridging Short Videos and Streamers with Multi-Graph Contrastive Learning for Live Streaming Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729914?casa_token=VV_a2cim2zQAAAAA:8_iRZnkm2SF--b0erw9weVcogQ9LIeROk1NyOXfNZph-hxyy3P5WGCh9xo4Z2ClVzMU0p0zxVS20zmg)
+- [Action First: Leveraging Preference-Aware Actions for More Effective Decision-Making in Interactive Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3726302.3729885?casa_token=yGWt4NHw9_0AAAAA:Ll_QFRrsGywecHsvFBwLGyd4emf4bgw24Mh5UvwIB3ycJlNsxx3mi_uXC5J9VCun0A4sAsceyqd4_T8)
+- [Rating-Aware Homogeneous Review Graphs and User Likes/Dislikes Differentiation for Effective Recommendations](https://dl.acm.org/doi/pdf/10.1145/3726302.3730069)
+- [ID-Free Not Risk-Free: LLM-Powered Agents Unveil Risks in ID-Free Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3726302.3730003?casa_token=bYP3wekdjAYAAAAA:terTtrPuPQyyYhFUsl_yRFdIp9eYmM_cf3aTjvkmTpwV-DtGFJ5-FzQmirNqmrMIKgErOFN3JUICKjU)
+- [FIM: Frequency-Aware Multi-View Interest Modeling for Local-Life Service Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729978?casa_token=QUp0pehftA4AAAAA:_YCGtCpYo5hhyIp8eVPomj1hBR-5kZtFY0AtC4kSHhHnXxFnzZa1QNJdEKPrKgNgGT1WZVaDtSHEvqc)
+- [Pre-train, Align, and Disentangle: Empowering Sequential Recommendation with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3726302.3730059?casa_token=HqugyGFfx74AAAAA:iK7cqXlMWPFgPWEmsgn4kviBVNAc8gEkkgzarx6AOsdgOgYr2rDg2op0xwzBIPCgHa5iWxb4PBw0Qqs)
+- [STAR-Rec: Making Peace with Length Variance and Pattern Diversity in Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730087?casa_token=kPhb6jTmYvwAAAAA:5Y8yUEk12vieAAmku-SB8JonTJAwoaL2pQpfxvzQUGas4q6527t3f9HONeA29RBLm51ubVfedPS70Uo)
+- [Triplet Contrastive Learning with Learnable Sequence Augmentation for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730101?casa_token=dB-_AJAujnsAAAAA:YCqa_BppUY6gS5RrioJtdzs8PIsuVUTeNBB3_Y44hx_qM7KTgMivDCIawy8q8ovia8Lt7mk9g1989Do)
+- [MSL: Not All Tokens Are What You Need for Tuning LLM as a Recommender](https://dl.acm.org/doi/pdf/10.1145/3726302.3730041?casa_token=BAquK0eJhzMAAAAA:DG1bcdhBVNbiCsPk4SgeA00wOZCpIoiKpoJTDzuA2aJ_MMDkz_s0KE1iAGRldb1tNdXXfJfdMM9vZRE)
+- [Intent Representation Learning with Large Language Model for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730011?casa_token=GnQ4AokxsscAAAAA:OfE0h4v1DFtaG-eqsTHt3UdsFWO6omemb8ndCoRtGd_yxfOqzBbuNc-ECBbu_8eDpUU_NOIW9pn7f0A)
+- [Enhancing Cross-Domain Recommendation with Plug-In Contrastive Representations from Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3726302.3729967?casa_token=sWD-5eg4CXcAAAAA:HbXVFzncs4CPmntr2IzXhtPb-jPXKeUo_yOLKSOLAV3dmjGHuzU3ZxJ_vkSkvH7VK0erD_ry1ash_k0)
+- [Search-Based Interaction For Conversation Recommendation via Generative Reward Model Based Simulated User](https://dl.acm.org/doi/pdf/10.1145/3726302.3730080?casa_token=vum1v5FzRjQAAAAA:mrdrx9SJ2HqXyUWuWi_oAibz8IfgM9DmNAqBCuFz8Gq0QG1XB55VZfWAsuFlc73j0nK5QMJ76kVShDs)
+- [MSCRS: Multi-modal Semantic Graph Prompt Learning Framework for Conversational Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3726302.3730040?casa_token=z2SJymGaZIsAAAAA:2ZWOGG3cyziIuTEKZZa5oFmd7dgomRQ_cpELUzcrsziw8tu3f5ucIM1oDiW8rVfgeI4_do83w9hDx4I)
+- [Efficiency Unleashed: Inference Acceleration for LLM-based Recommender Systems with Speculative Decoding](https://dl.acm.org/doi/pdf/10.1145/3726302.3729961?casa_token=H_BlNe3FaWcAAAAA:UOP7Tr9Sq9lNI2h-rGgFTQtkyj3s7br6U_xm2T9_8NgITqFG7rRIlTXrJQiu2JIifsVMVIZBCmbseMg)
+- [COHESION: Composite Graph Convolutional Network with Dual-Stage Fusion for Multimodal Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729927?casa_token=ffRrFFvFvhIAAAAA:ST9gaZQZIMiDBkV40lLbCEQ58FTVeercOoSHQbsXLaWxmLT67U4-ZzS0yN5bbbo4MO97eQLSj2ZD0yI)
+- [Multi-scenario Instance Embedding Learning for Deep Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3726302.3730045?casa_token=VWS1wcGxPcsAAAAA:HUPhInsazFa1Nh6yK50Di-0x1pCtW00fSRZH5jZHIstlPJlrbSJ-c-Rxs_1VoJo-7Rw3RV3Gcb25hI4)
+- [Invariance Matters: Empowering Social Recommendation via Graph Invariant Learning](https://dl.acm.org/doi/pdf/10.1145/3726302.3730013?casa_token=Ch37oRjxKn8AAAAA:fgift4MC6-o6rpOfnMogIoJVlytCas8NqKwOLLeZUeBDV-Yz4IHzndtpM9austd9hZDhrZcglr_VmCY)
+- [LLM-Empowered Creator Simulation for Long-Term Evaluation of Recommender Systems Under Information Asymmetry](https://dl.acm.org/doi/pdf/10.1145/3726302.3730026?casa_token=SjSnl3c0HOUAAAAA:WbHUTeBov_vdBBKOnHcPTeKvQh9wBZk70a8_JJn6vPkp7F0cno546JSIuk-2mIiAPoQDoh-pEuj4Hws)
+- [Embracing Plasticity: Balancing Stability and Plasticity in Continual Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3726302.3729964)
+- [LIGHT: Enhancing Learning Path Recommendation via Knowledge Topology-Aware Sequence Optimization](https://dl.acm.org/doi/pdf/10.1145/3726302.3730022?casa_token=uhZfLr-LLF8AAAAA:LLM_W0Kc5Ys3hKvdrWgPlEvFpY0wZfOoWQ1rviQWEA0ScMwJP1dLF5sJgqDTef_VXbzVR2RmRGrQwGU)
+- [Towards Distribution Matching between Collaborative and Language Spaces for Generative Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730098?casa_token=wwuqmieRmI4AAAAA:e-SIOcT7tO05GBHH5JLMWRDIxxpgHVjg5YKLEZ2NKnMuQh8ANE_PotnTQAC0TAJeD3BJR7ZA-glJD4k)
+- [Killing Two Birds with One Stone: Unifying Retrieval and Ranking with a Single Generative Recommendation Model](https://dl.acm.org/doi/pdf/10.1145/3726302.3730017?casa_token=ns3L_r-u-zUAAAAA:d2PsU4U8DsXVeLSdYXl22nTO-CqmpD0KmiXX1XypMmqPsgSbjeMX5GI5X11kpoP2z2iuekyvgFSrSfE)
+- [Adaptive Graph Integration for Cross-Domain Recommendation via Heterogeneous Graph Coordinators](https://dl.acm.org/doi/pdf/10.1145/3726302.3729886)
+- [DARLR: Dual-Agent Offline Reinforcement Learning for Recommender Systems with Dynamic Reward](https://dl.acm.org/doi/pdf/10.1145/3726302.3729942)
+- [Fair Recommendation with Biased-Limited Sensitive Attribute](https://dl.acm.org/doi/pdf/10.1145/3726302.3729974?casa_token=V72GiUchRKgAAAAA:eiViTr5wwvsLABb0SQekL3hNh8OXfKHxQKCXdqRIsYTLnhAvy7SFqZBaFWKPvNmGy41_lGJ4dwL5o_I)
+- [Diversity-aware Dual-promotion Poisoning Attack on Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729955)
+- [Improving Sequential Recommenders through Counterfactual Augmentation of System Exposure](https://dl.acm.org/doi/pdf/10.1145/3726302.3730005)
+- [Social Relation-Level Privacy Risks and Preservation in Social Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3726302.3730086?casa_token=mPPxx3eyRjUAAAAA:CFklDs9TYxzDUofCwZf8A_2OVAVWAVu0Jhj0bAR6eVHjZbiFDdoZPLaOiYMZTWcouI3w9N3McMlaZz8)
+- [Balancing Self-Presentation and Self-Hiding for Exposure-Aware Recommendation Based on Graph Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3726302.3729900)
+- [Disentangled Graph Debiasing for Next POI Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729952?casa_token=EuUVvRfrB10AAAAA:klj1OzRbC-uqqV8a7RFZu3GRCDaF_T7oU7vP1exoOQflub4t6NDVRDsqtgXKxxIWSIHnQQqTt9rs32Y)
+- [Exploring the Escalation of Source Bias in User, Data, and Recommender System Feedback Loop](https://dl.acm.org/doi/pdf/10.1145/3726302.3729972?casa_token=VWaseleac4EAAAAA:DQMSdoQ7pkw2Tl5vg_SPI7dDXz3rH-BnXJD6nSEz4Md7gxLOKVa2RnqWEWAC4cWWf0DWXwCqS-7EeFI)
+- [Joint Item Embedding Dual-view Exploration and Adaptive Local-Global Fusion for Federated Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730016?casa_token=x8vYLne3BagAAAAA:Z1_ZB6leGF8wELtYRLx7YY8ZpRooRk-4O7qHq0crsUk7hprPZg5ijKGsciAsh53zr_RHNxlyWgBn9us)
+- [Adaptive user Dynamic Interest Guidance for Generative Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3729888?casa_token=Tl6A7okAojMAAAAA:D2JSTQHJ-b1s0V33a6H6m02nIiKHoHmLOc9VNfiFUxJR0WiQnSgk04YmWc1xK7yQmrPTX_J2ixpx--U)
+- [Refining Fidelity Metrics for Explainable Recommendations](https://dl.acm.org/doi/pdf/10.1145/3726302.3730242)
+- [Interest Changes: Considering User Interest Life Cycle in Recommendation System](https://dl.acm.org/doi/pdf/10.1145/3726302.3730215?casa_token=5T9ckXuJDgkAAAAA:-8XA2IS7D_YjIhTHXgrWd6ajwM3cjEtqGx8MZZSBK08VXeQIxup7fD01WwUL0uNnILM7TpLqbURnDdw)
+- [HeterRec: Heterogeneous Information Transformer for Scalable Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730206?casa_token=S7h0RxoQjmEAAAAA:pGbTcrnhF9PJhvfy7SrleOZTeLErBQpyPQ7VTi2ET2UgNqKpGPlDOfmOoPH4K7GstgR3I7eZs6dNoTI)
+- [Training-free Periodic Interest Augmentation in Incremental Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730258?casa_token=Dtk2cCM-susAAAAA:-Ru3eD8DLRoCLenjZpQ75-e9yQVepgFyJbFQ3tGhroqf0WZ34WFTPRNOQohs042c4huEftbAbBLpxOQ)
+- [GEAR: Generalized Alternating Regressor for Multi-Behavior Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730200?casa_token=Qh63_C0E6FgAAAAA:9FmPj9VPDtn43E9wYVdfFwsO7aZBzmhgEPVGa4-o8I4olEerSs_sx-O1ByajWoUVr2s787y8pi6Rt_E)
+- [SEALR: Sequential Emotion-Aware LLM-Based Personalized Recommendation System](https://dl.acm.org/doi/pdf/10.1145/3726302.3730249)
+- [Towards Principled Learning for Re-ranking in Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3726302.3730257?casa_token=JRouGtg-F_oAAAAA:BfE_BDTtfD9Zz-_NH4SY0RT5hd2letDyErQmKFE9AxGHW2nSKTxREwXQiGIp78cVqmtH79Uc7bjwiUg)
+- [SMMR: Sampling-Based MMR Reranking for Faster, More Diverse, and Balanced Recommendations and Retrieval](https://dl.acm.org/doi/pdf/10.1145/3726302.3730250)
+- [Multi-Interest Matching for Personalized News Recommendation with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3726302.3730233?casa_token=igWzi9ERQgcAAAAA:4Eji0ErXE5AKSQcnYiSp6NejoD8vrBq1ZedW9bFgpCklQBENcCzqgvTab5X-SQlAp23pP__VkmdBI5k)
+- [AgentCF++: Memory-enhanced LLM-based Agents for Popularity-aware Cross-domain Recommendations](https://dl.acm.org/doi/pdf/10.1145/3726302.3730161?casa_token=HfBmbMEpsN4AAAAA:fAqdYpJWodpmvBKt4W8wAhwUhz2B49-qZX_FbmGqV8As2s2kavPd3FcvyShKTqVZMVXEKmWVtYZ7DFw)
+- [Improving LLM-powered Recommendations with Personalized Information](https://dl.acm.org/doi/pdf/10.1145/3726302.3730211?casa_token=T7hsCVVocl4AAAAA:0H1IZewaRlK0oswnNkTAECOiXAR_LWpBxrq0MKJTRPw85FvvPvejsJyeyyWnw_PeUjtiw2EIiOE7lT8)
+- [Dual Debiasing in LLM-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730181?casa_token=Jw9PqjpOu1QAAAAA:9v8T_0mGlPHIs1w0wa7SZJQ3s_IWxX0AdzJ6hNv_hqKmRZLC4ia7R2s0dfy3CwJPMf55fzxhhRLjbXs)
+- [PUB: An LLM-Enhanced Personality-Driven User Behaviour Simulator for Recommender System Evaluation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730238)
+- [Do LLMs Memorize Recommendation Datasets? A Preliminary Study on MovieLens-1M](https://dl.acm.org/doi/pdf/10.1145/3726302.3730178)
+- [LLM as User Simulator: Towards Training News Recommender without Real User Interactions](https://dl.acm.org/doi/pdf/10.1145/3726302.3730224?casa_token=lupupFjt084AAAAA:V7bMJhBVbUc13zqL2RxFX5O7KieIa5qW3VCoABHYKXy6J6qSab3AiChDPbdKP9YYbsLwylYIKRw5gD8)
+- [Private Preferences, Public Rankings: A Privacy-Preserving Framework for Marketplace Recommendations](https://dl.acm.org/doi/pdf/10.1145/3726302.3730237)
+- [Translative Neural Team Recommendation: From Multilabel Classification to Sequence Prediction](https://dl.acm.org/doi/pdf/10.1145/3726302.3730259)
+- [From Monolith to Mosaic: Uncovering Behavioral Differences for Choice Models in Recommender Systems Simulations](https://dl.acm.org/doi/pdf/10.1145/3726302.3730199)
+- [FROG: Effective Friend Recommendation in Online Games via Modality-aware User Preferences](https://dl.acm.org/doi/pdf/10.1145/3726302.3730198)
+- [CoSRec: A Joint Conversational Search and Recommendation Dataset](https://dl.acm.org/doi/pdf/10.1145/3726302.3730319)
+- [SynthTRIPs: A Knowledge-Grounded Framework for Benchmark Data Generation for Personalized Tourism Recommenders](https://dl.acm.org/doi/pdf/10.1145/3726302.3730321)
+- [Benchmarking Recommendation, Classification, and Tracing Based on Hugging Face Knowledge Graph](https://dl.acm.org/doi/pdf/10.1145/3726302.3730277?casa_token=7ZIX-KdK4ZwAAAAA:X2SsKND9VLrAeAOO8xt8KDaB24tTc8greKMpopSYbpT-ZAAVUhWj_rRDsQESFmn0Sr1jQhnFE0fr66o)
+- [DataRec: A Python Library for Standardized and Reproducible Data Management in Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3726302.3730320)
+- [Reassessing the Effectiveness of Reinforcement Learning based Recommender Systems for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3730322)
+- [A Worrying Reproducibility Study of Intent-Aware Recommendation Models](https://dl.acm.org/doi/pdf/10.1145/3726302.3730307)
+- [FairWork: A Generic Framework For Evaluating Fairness In LLM-Based Job Recommender System](https://dl.acm.org/doi/pdf/10.1145/3726302.3730145?casa_token=OfXSA4jOu6oAAAAA:mtMnVbEvDhfIVvF892b5Ca5cBCPHT1wk8br2bS-anMO0ZNqv-Cm7opprW6mJLL0s2KiBEWCOAobEUVs)
+- [NodeRec+: A Lightweight Framework for Federated Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3726302.3730138?casa_token=gHauhB5Wu1kAAAAA:TUIdhWXc5q_Ird9zRASqlsIo-6Jm6dWYAUfiQTkLR5KJz2ErYpQsFAAA0cs9ZW-i6qwsZtSCLdUibxA)
+- [InstInfo: A Just-in-Time Literature Recommendation System for Presentations](https://dl.acm.org/doi/pdf/10.1145/3726302.3730146?casa_token=dfHMZtZ1y6AAAAAA:WOY1CwPMcwdtjnrA9CUpEwtVtd28LBEbp7PHa1bufHGQsxHHp1aLYP295UOkLnuKZvjWufkSyZc8kyk)
+- [Toward Holistic Evaluation of Recommender Systems Powered by Generative Models](https://dl.acm.org/doi/pdf/10.1145/3726302.3730354)
+- [Small Data, Big Impact: Navigating Resource Limitations in Point-of-Interest Recommendation for Individuals with Autism](https://dl.acm.org/doi/pdf/10.1145/3726302.3730269?casa_token=fM-G-b1rZaYAAAAA:nPZ2ROXqgEKHU4F8JBeIs9qFEdcaNavYsY2RU5JvOYAVA8codl7myC5DS2flhPHBR_-NbW2c03nW958)
+- [When Less is Enough: Optimizations for Low-Cost Recommendation Systems](https://dl.acm.org/doi/pdf/10.1145/3726302.3730267?casa_token=m9voPT9EH_YAAAAA:V0Sw35nB4CymRHz2vNKgrVXtTjrObNRGU6sqrX1oB5OKhtzlCWTgoSES4i701JUfU1RUWDQ5a9y5FKg)
+- [Adaptive Domain Scaling for Personalized Sequential Modeling in Recommenders](https://dl.acm.org/doi/pdf/10.1145/3726302.3731939?casa_token=GvQ0fN2C8s8AAAAA:dGJ8ZcNkcK4fBurLQHNgrPmpZB39kbijE1qEOZ0_b7zFjH3oUTLdMgx9BB8GvIM9NqiFwqetORKX7FE)
+- [Pyramid Mixer: Multi-dimensional Multi-period Interest Modeling for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3731968?casa_token=XpgDhXBS9iYAAAAA:loqCn7t7pl6SO7tBksf6dwiPqhYRoz9j9IWdAmoACrR-Zr08xGGfLhhWrJ0bKy45dTCyR7mXjOfL1q4)
+- [SuperRS: Multi Scenario Reciprocal-Aware Dual MoE for Unified Recommendation-Search Ranking](https://dl.acm.org/doi/pdf/10.1145/3726302.3731949?casa_token=INjJOCfMIz8AAAAA:FYkB_g3KLYLUyRpO78QRNM4JqsKS0q-OKcaUWH2LOoLZvF3x8KjFsYhkWeRuptU7NsypmHnWFeB_wno)
+- [Federated Recommender System Based on Diffusion Augmentation and Guided Denoising](https://dl.acm.org/doi/pdf/10.1145/3688570?casa_token=6MSmukW2_n0AAAAA:u2cbAqvUOszYtjIl1UZ5L3aO2BpIkY-dPMWjb7_pqENzlDCesNB8Hken1Mw9ddDZVR2BXniB6MX170I)
+- [Explaining Recommendation Fairness from a User/Item Perspective](https://dl.acm.org/doi/pdf/10.1145/3698877?casa_token=3RwqHtOzxr0AAAAA:B2jhHln3uLPf-6nGobtsy3pYRyVhBACp1-WNTMDtMHsTk5EuEwOMXM3IQjgAS0QNE5VRSAQynM1GBak)
+- [CAFE+: Towards Compact, Adaptive, and Fast Embedding for Large-scale Online Recommendation Models](https://dl.acm.org/doi/pdf/10.1145/3713072?casa_token=aRUB2FdDL-EAAAAA:lYt5UaFonhxE83KIqRiyJg6p5fG7L9vlGE_oMXCp-U2Pj-1mC2PjRhoksrsracWO0gZ6qoE2IZBogek)
+- [Automated Disentangled Sequential Recommendation with Large Language Models](https://dl.acm.org/doi/pdf/10.1145/3675164)
+- [LTP-MMF: Towards Long-Term Provider Max-Min Fairness Under Recommendation Feedback Loops](https://dl.acm.org/doi/pdf/10.1145/3695867?casa_token=aRb3oDFa318AAAAA:Bn8BZk5OSldyO61bSHnlRBOK0YfZH41kjmIONZSbRGCaXGie6-1NwUEym6ihDIjZyGb3VOF1j7-gG_s)
+- [Feature-Enhanced Neural Collaborative Reasoning for Explainable Recommendation](https://dl.acm.org/doi/pdf/10.1145/3690381)
+- [Knowledge-Enhanced Conversational Recommendation via Transformer-Based Sequential Modeling](https://dl.acm.org/doi/pdf/10.1145/3677376?casa_token=duy_BBkb55UAAAAA:vZ5ubmKG9IEVoSHFcolFbf91oVYagXOmH9p52oily0wfCxyNcYbbZSF7EcmK-f3iIwxpGScgp0OPhsY)
 
 
 # 2023
