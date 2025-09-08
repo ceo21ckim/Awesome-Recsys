@@ -12,7 +12,7 @@ I share information related to the Recommender Systems that I am interested in. 
 `None` means unavailable URL or papers that have not been published yet.
 
 - 2025
-  - [Recsys 2024](#Recsys-2025)
+  - [Recsys 2025](#Recsys-2025)
   - [SIGIR 2025](#SIGIR-2025)
 
 
