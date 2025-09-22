@@ -600,6 +600,15 @@ Language Models for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3
 - [SHARP-Distill: A 68× Faster Recommender System with Hypergraph Neural Networks and Language Models](https://openreview.net/pdf?id=3hYrORJndz)
 
 
+## AAAAI 2025
+- `Coming Soon`
+
+
+## NeurIPS 2025
+- `Coming Soon`
+
+
+
 # 2023
 
 ## WSDM 2023
