@@ -14,7 +14,7 @@ I share information related to the Recommender Systems that I am interested in. 
 - 2025
   - [Recsys 2025](#Recsys-2025)
   - [SIGIR 2025](#SIGIR-2025)
-
+  - [KDD 2025](#KDD-2025)
 
 - 2023
   - [WSDM 2023](#WSDM-2023)
@@ -307,6 +307,45 @@ Language Models for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3726302.3
 - [Feature-Enhanced Neural Collaborative Reasoning for Explainable Recommendation](https://dl.acm.org/doi/pdf/10.1145/3690381)
 - [Knowledge-Enhanced Conversational Recommendation via Transformer-Based Sequential Modeling](https://dl.acm.org/doi/pdf/10.1145/3677376?casa_token=duy_BBkb55UAAAAA:vZ5ubmKG9IEVoSHFcolFbf91oVYagXOmH9p52oily0wfCxyNcYbbZSF7EcmK-f3iIwxpGScgp0OPhsY)
 
+## KDD 2025
+
+- [A Unified Online-Offline Framework for Co-Branding Campaign Recommendations](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/KDD-25-Co_Branding_Campaign_Recommendations.pdf)
+- [Adapting Large Vision-Language Models to Visually-Aware Conversational Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3736828)
+- [Addressing Correlated Latent Exogenous Variables in Debiased Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3711896.3736832)
+- [Breaking the Bottleneck: User-Specific Optimization and Real-Time Inference Integration for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3736865)
+- [Breaking the Top-$K$ Barrier: Advancing Top-$K$ Ranking Metrics Optimization in Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3711896.3736866)
+- [Bridging Textual-Collaborative Gap through Semantic Codes for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3736869)
+- [Contrastive Text-enhanced Transformer for Cross-Domain Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3736893)
+- [Data Watermarking for Sequential Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3711896.3736903)
+- [EARN: Efficient Inference Acceleration for LLM-based Generative Recommendation by Register Tokens](https://dl.acm.org/doi/pdf/10.1145/3711896.3736919)
+- [FairCDR: Transferring Fairness and User Preferences for Cross-Domain Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3736951)
+- [Feature Reconstruction for Anomaly Detection on Directed Multigraphs: A Preprocessing Framework for GNNs](https://dl.acm.org/doi/pdf/10.1145/3711896.3736953)
+- [FindRec: Stein-Guided Entropic Flow for Multi-Modal Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3736968)
+- [Generating Long Semantic IDs in Parallel for Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3736979)
+- [Generative Next POI Recommendation with Semantic ID](https://dl.acm.org/doi/pdf/10.1145/3711896.3736981)
+- [GORACS: Group-level Optimal Transport-guided Coreset Selection for LLM-based Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3711896.3736985)
+- [Gradients as An Action: Towards Communication-Efficient Federated Recommender Systems via Adaptive Action Sharing](https://dl.acm.org/doi/pdf/10.1145/3711896.3736987)
+- [LettinGo: Explore User Profile Generation for Recommendation System](https://dl.acm.org/doi/pdf/10.1145/3711896.3737024)
+- [LightKG: Efficient Knowledge-Aware Recommendations with Simplified GNN Architecture](https://dl.acm.org/doi/pdf/10.1145/3711896.3737026)
+- [LLM2Rec: Large Language Models Are Powerful Embedding Models for Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3737029)
+- [Lost in Sequence: Do Large Language Models Understand Sequential Recommendation?](https://dl.acm.org/doi/pdf/10.1145/3711896.3737035)
+- [MDVT: Enhancing Multimodal Recommendation with Model-Agnostic Multimodal-Driven Virtual Triplets](https://dl.acm.org/doi/pdf/10.1145/3711896.3737042)
+- [Measure Domain’s Gap: A Similar Domain Selection Principle for Multi-Domain Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3737043)
+- [Modality-Aware Diffusion Augmentation with Consistent Subspace Disentanglement for Session-based Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3737052)
+- [MockLLM: A Multi-Agent Behavior Collaboration Framework for Online Job Seeking and Recruiting](https://dl.acm.org/doi/pdf/10.1145/3711896.3737051)
+- [Multi-Grained Preference Enhanced Transformer for Multi-Behavior Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3737059)
+- [One-shot Multi-view Visual Conversational Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3737070)
+- [Preference-Optimized Retrieval and Ranking for Efficient Multimodal Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3737088)
+- [Revisiting Self-Attention for Cross-Domain Sequential Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3737108)
+- [Scaling Transformers for Discriminative Recommendation via Generative Pretraining](https://dl.acm.org/doi/pdf/10.1145/3711896.3737117)
+- [Shapley Value-driven Data Pruning for Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3711896.3737127)
+- [SMA-GNN: A Symbol-Aware Graph Neural Network for Signed Link Prediction in Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3711896.3737132)
+- [STARLINE: Contrastive Learning with Modality-Aware Graph Refinement for Effective Multimedia Recommendation](https://dl.acm.org/doi/pdf/10.1145/3711896.3737136)
+- [Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity](https://dl.acm.org/doi/pdf/10.1145/3711896.3737146)
+- [TarDiff: Target-Oriented Diffusion Guidance for Synthetic Electronic Health Record Time Series Generation](https://dl.acm.org/doi/pdf/10.1145/3711896.3737147)
+- [Time Matters: Enhancing Sequential Recommendations with Time-Guided Graph Neural ODEs](https://dl.acm.org/doi/pdf/10.1145/3711896.3737156)
+- [Unlocking the Power of Diffusion Models in Sequential Recommendation: A Simple and Effective Approach](https://dl.acm.org/doi/pdf/10.1145/3711896.3737172)
+- [Your Graph Recommenders are Provably Doing Graph Contrastive Learning](https://dl.acm.org/doi/pdf/10.1145/3711896.3737182)
 
 # 2023
 
