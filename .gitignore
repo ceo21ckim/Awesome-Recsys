@@ -1,0 +1,13 @@
+# 환경 변수 (API 키 포함) — 절대 커밋 금지
+.env
+
+# 크롤링 캐시 (재생성 가능)
+data/cache.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
