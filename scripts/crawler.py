@@ -156,9 +156,9 @@ _DBLP_HEADERS = {
 }
 
 
-def _parse_dblp_html(html: str) -> List[dict]:
+def _parse_dblp_html(content: str) -> List[dict]:
     """DBLP TOC HTML에서 inproceedings 논문 목록을 추출합니다."""
-    entries = re.split(r'(?=<li class="entry inproceedings")', html)
+    entries = re.split(r'(?=<li class="entry inproceedings")', content)
     papers = []
     for entry in entries:
         if 'class="entry inproceedings"' not in entry:
