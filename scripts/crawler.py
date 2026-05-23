@@ -13,6 +13,7 @@ import re
 import html
 import warnings
 from pathlib import Path
+from typing import Dict, List, Optional, Set, Tuple
 from config import CONFERENCES, KEYWORDS, START_YEAR, END_YEAR
 
 CACHE_FILE = Path(__file__).parent.parent / 'data' / 'cache.json'
@@ -89,7 +90,7 @@ def validate_api_key(api_key: str) -> bool:
         return False
 
 
-def make_rate_limiter(api_key: str | None) -> tuple[RateLimiter, dict]:
+def make_rate_limiter(api_key: Optional[str]) -> Tuple[RateLimiter, dict]:
     if api_key and validate_api_key(api_key):
         print(f"[OK] API 키 유효 -- {_RATE_WITH_KEY} req/sec 모드")
         return RateLimiter(_RATE_WITH_KEY), {'x-api-key': api_key}
@@ -102,7 +103,7 @@ def make_rate_limiter(api_key: str | None) -> tuple[RateLimiter, dict]:
 # HTTP 요청 (SSL 자동 재시도 포함)
 # ---------------------------------------------------------------------------
 
-def _raw_get(url: str, params: dict, headers: dict) -> requests.Response | None:
+def _raw_get(url: str, params: dict, headers: dict) -> Optional[requests.Response]:
     try:
         return requests.get(url, params=params, headers=headers,
                             timeout=30, verify=_get_ssl_verify())
@@ -119,7 +120,7 @@ def _request_with_backoff(
     params: dict,
     headers: dict,
     rate_limiter: RateLimiter,
-) -> dict | None:
+) -> Optional[dict]:
     for attempt in range(MAX_RETRIES):
         rate_limiter.wait()
         try:
@@ -155,7 +156,7 @@ _DBLP_HEADERS = {
 }
 
 
-def _parse_dblp_html(html: str) -> list[dict]:
+def _parse_dblp_html(html: str) -> List[dict]:
     """DBLP TOC HTML에서 inproceedings 논문 목록을 추출합니다."""
     entries = re.split(r'(?=<li class="entry inproceedings")', html)
     papers = []
@@ -184,7 +185,7 @@ def _parse_dblp_html(html: str) -> list[dict]:
     return papers
 
 
-def fetch_dblp_papers(dblp_id: str, toc_prefix: str, year: int, dblp_rl: RateLimiter) -> list[dict]:
+def fetch_dblp_papers(dblp_id: str, toc_prefix: str, year: int, dblp_rl: RateLimiter) -> List[dict]:
     """
     DBLP TOC HTML에서 특정 컨퍼런스·연도의 전체 논문을 수집합니다.
     URL: https://dblp.uni-trier.de/db/conf/{dblp_id}/{toc_prefix}{year}.html
@@ -230,7 +231,7 @@ def fetch_dblp_papers(dblp_id: str, toc_prefix: str, year: int, dblp_rl: RateLim
 # Semantic Scholar: abstract 보완
 # ---------------------------------------------------------------------------
 
-def fetch_ss_abstract(title: str, rate_limiter: RateLimiter, headers: dict) -> str | None:
+def fetch_ss_abstract(title: str, rate_limiter: RateLimiter, headers: dict) -> Optional[str]:
     """제목으로 Semantic Scholar를 검색해 abstract 첫 문장을 반환합니다."""
     data = _request_with_backoff(
         url=f'{SS_BASE_URL}/paper/search',
@@ -255,7 +256,7 @@ def is_recommendation_paper(title: str) -> bool:
     return any(kw in t for kw in KEYWORDS)
 
 
-def get_first_sentence(abstract: str | None) -> str | None:
+def get_first_sentence(abstract: Optional[str]) -> Optional[str]:
     if not abstract:
         return None
     sentences = re.split(r'(?<=[.!?])\s+', abstract.strip())
@@ -347,8 +348,8 @@ def crawl_conference_year(
 
 
 def crawl_all(
-    api_key: str | None = None,
-    force_refresh: set[tuple] | None = None,
+    api_key: Optional[str] = None,
+    force_refresh: Optional[set] = None,
 ) -> dict:
     rate_limiter, headers = make_rate_limiter(api_key)
     dblp_rl = RateLimiter(_RATE_DBLP)
