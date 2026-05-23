@@ -13,8 +13,8 @@ import sys
 from pathlib import Path
 
 # 파일/파이프로 실행할 때도 로그가 실시간으로 보이도록
-sys.stdout.reconfigure(line_buffering=True)
-sys.stderr.reconfigure(line_buffering=True)
+sys.stdout.reconfigure(encoding='utf-8', line_buffering=True)
+sys.stderr.reconfigure(encoding='utf-8', line_buffering=True)
 
 from dotenv import load_dotenv
 
